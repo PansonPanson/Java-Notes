@@ -3,8 +3,7 @@
 ### 一.计算机网络（Computer Networking）
 
 1. HTTP
-
-1.1 [HTTP协议基础知识](https://pansonpanson.github.io/2018/04/23/HTTP%E5%8D%8F%E8%AE%AE%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/#more)
+   1.1 [HTTP协议基础知识](https://pansonpanson.github.io/2018/04/23/HTTP%E5%8D%8F%E8%AE%AE%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/#more)
 
 > + HTTP/1.1和HTTP/1.0中的方法
 > + HTTP状态码
@@ -22,7 +21,7 @@
 
 1. MySQL
 
-1.1 [MySQL基础杂记](https://pansonpanson.github.io/2018/05/02/MySQL%E5%9F%BA%E7%A1%80/#more)
+   1.1 [MySQL基础杂记](https://pansonpanson.github.io/2018/05/02/MySQL%E5%9F%BA%E7%A1%80/#more)
 
 > + MySQL常用命令
 > + 正则表达式
