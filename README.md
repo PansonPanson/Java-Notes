@@ -74,6 +74,8 @@
 
 ### 七.Java虚拟机（JVM）
 
+    1. Java内存模型
+
 ### 八.设计模式（Design Patterns）
 
 1. [单例模式](https://pansonpanson.github.io/2018/04/22/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/#more)
