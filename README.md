@@ -51,6 +51,7 @@
 2. 集合
 
    2.1 [集合基础](https://pansonpanson.github.io/2018/05/20/Java%E9%9B%86%E5%90%88%E5%9F%BA%E7%A1%80/)
+   2.2 ArrayList源码分析
 
 3. 泛型
 
