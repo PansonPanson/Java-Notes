@@ -1,4 +1,4 @@
-最近在准备校招，想系统性整理一下Java服务端的面试。立此贴，准备开始这项计划。知识整理计划包括初步定为一下几个部分：<!--more-->
+Java开发知识整理：<!--more-->
 
 ### 一.计算机网络（Computer Networking）
 
@@ -30,11 +30,7 @@
 
 2. Redis
 
-    2.1 [Redis中的数据结构](https://pansonpanson.github.io/2018/05/22/Redis%E5%9F%BA%E7%A1%80/)
-
-3. MongoDB
-
-    3.1 MongoDB基础杂记
+    2.1[Redis中的数据结构](https://pansonpanson.github.io/2018/05/22/Redis%E5%9F%BA%E7%A1%80/)
 
 ### 四.Linux
 
@@ -55,7 +51,6 @@
 2. 集合
 
    2.1 [集合基础](https://pansonpanson.github.io/2018/05/20/Java%E9%9B%86%E5%90%88%E5%9F%BA%E7%A1%80/)
-   2.2 ArrayList源码分析
 
 3. 泛型
 
@@ -79,7 +74,8 @@
 
 ### 七.Java虚拟机（JVM）
 
-    1. Java内存模型
+1. JVM内存结构
+2. JVM
 
 ### 八.设计模式（Design Patterns）
 
@@ -102,7 +98,14 @@
 
 ### 十.分布式
 
-### 十一.其他
+### 十一.算法
+
++ [算法](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E7%AE%97%E6%B3%95.md)
++ [《程序员代码面试指南：IT名企算法与数据结构题目最优解》](https://book.douban.com/subject/26638586/)
++ [剑指offer题解](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E5%89%91%E6%8C%87%20offer%20%E9%A2%98%E8%A7%A3.md)
++ [leetcode题解](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3.md)
+
+### 十二.其他
 
 1. Git
    + [Git使用笔记](https://pansonpanson.github.io/2018/04/22/Git/#more)
@@ -120,5 +123,21 @@
 
 [ Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
+[《程序员代码面试指南：IT名企算法与数据结构题目最优解》](https://book.douban.com/subject/26638586/)
 
+[《高性能MySQL》](https://book.douban.com/subject/23008813/)
+
+[《Java编程思想》](https://book.douban.com/subject/2130190/)
+
+[《阿里巴巴Java开发规范》](https://book.douban.com/subject/27605355/)
+
+[《鸟哥的Linux私房菜》](https://book.douban.com/subject/4889838/)
+
+[《大型网站技术架构 核心原理与案例分析》](https://book.douban.com/subject/25723064/)
+
+[《Java多线程编程核心技术》](https://book.douban.com/subject/26555197/)
+
+[《Java核心技术 卷Ⅰ》](https://book.douban.com/subject/26880667/)
+
+[《Maven实战》](https://book.douban.com/subject/5345682/)
 
