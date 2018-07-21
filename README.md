@@ -16,6 +16,9 @@ Java开发知识整理：<!--more-->
 
 ### 七.Java虚拟机（JVM）
 
++ [JVM一览](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
++ 
+
 ### 八.设计模式（Design Patterns）
 
 ### 九.框架（Framework）
