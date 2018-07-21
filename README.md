@@ -2,28 +2,47 @@ Java开发知识整理：<!--more-->
 
 ### 一.计算机网络（Computer Networking）
 
+
+
 ### 二.操作系统（Operating System）
+
+
 
 ### 三.数据库（Database）
 
+
+
 ### 四.Linux
+
+
 
 ###  五.Java基础（Basic）
 
 + [Java本地方法](https://blog.csdn.net/wi__wi/article/details/51085907)
 
+
+
 ###  六.Java并发（Concurrency）
+
+
 
 ### 七.Java虚拟机（JVM）
 
 + [JVM一览](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
-+ 
+
+
 
 ### 八.设计模式（Design Patterns）
 
+
+
 ### 九.框架（Framework）
 
+
+
 ### 十.分布式
+
+
 
 ### 十一.算法
 
@@ -32,7 +51,13 @@ Java开发知识整理：<!--more-->
 + [剑指offer题解](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E5%89%91%E6%8C%87%20offer%20%E9%A2%98%E8%A7%A3.md)
 + [leetcode题解](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3.md)
 
+
+
 ### 十二.其他
+
+#### Git
+
++ [使用git提交到github,每次都要输入用户名和密码的解决方法](https://www.cnblogs.com/sky6862/p/7992736.html)
 
 
 
