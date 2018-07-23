@@ -19,6 +19,7 @@ Java开发知识整理：<!--more-->
 ###  五.Java基础（Basic）
 
 + [Java本地方法](https://blog.csdn.net/wi__wi/article/details/51085907)
++ [Java NIO 系列教程](http://ifeve.com/java-nio-all/)
 
 
 
@@ -34,7 +35,8 @@ Java开发知识整理：<!--more-->
 
 ### 八.设计模式（Design Patterns）
 
-
++ [六大设计原则](http://wiki.jikexueyuan.com/project/java-design-pattern-principle/)
++ 
 
 ### 九.框架（Framework）
 
