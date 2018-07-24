@@ -25,6 +25,8 @@ Java开发知识整理：<!--more-->
 
 ###  六.Java并发（Concurrency）
 
++ [深入理解java内存模型系列文章](http://ifeve.com/java-memory-model-0/)
+
 
 
 ### 七.Java虚拟机（JVM）
