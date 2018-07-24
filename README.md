@@ -20,8 +20,9 @@ Java开发知识整理：<!--more-->
 
 + [Java本地方法](https://blog.csdn.net/wi__wi/article/details/51085907)
 + [Java NIO 系列教程](http://ifeve.com/java-nio-all/)
-
-
++ [Java集合学习指南](http://wiki.jikexueyuan.com/project/java-collection/)
++ [java 集合类知识汇总](https://mp.weixin.qq.com/s/2P-wEvmig-M2Ehde1REGjQ)
++ [Java 容器](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%AE%B9%E5%99%A8.md#arraylist)
 
 ###  六.Java并发（Concurrency）
 
