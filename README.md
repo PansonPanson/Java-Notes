@@ -37,6 +37,10 @@ Java开发知识整理：<!--more-->
 ###  六.Java并发（Concurrency）
 
 + [深入理解java内存模型系列文章](http://ifeve.com/java-memory-model-0/)
++ [深入浅出 Java Concurrency](http://www.blogjava.net/xylz/archive/2010/07/08/325587.html) 
++ [死磕Java并发](https://www.jianshu.com/nb/12860760)
++ [Java 并发](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%B9%B6%E5%8F%91.md)
++ [深入分析java线程池的实现原理](https://www.jianshu.com/p/87bff5cc8d8c)
 
 
 
