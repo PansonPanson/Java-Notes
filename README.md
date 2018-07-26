@@ -51,6 +51,10 @@ Java开发知识整理：<!--more-->
 + [Java并发编程：线程池的使用](https://www.cnblogs.com/dolphin0520/p/3932921.html)
 + [聊聊并发（三）——JAVA线程池的分析和使用](http://www.infoq.com/cn/articles/java-threadPool)
 
+#### 阻塞队列
+
++ [聊聊并发（七）——Java中的阻塞队列](http://www.infoq.com/cn/articles/java-blocking-queue?utm_source=infoq&utm_campaign=user_page&utm_medium=link)
+
 ### 七.Java虚拟机（JVM）
 
 + [JVM一览](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
@@ -84,6 +88,9 @@ Java开发知识整理：<!--more-->
 #### Git
 
 + [使用git提交到github,每次都要输入用户名和密码的解决方法](https://www.cnblogs.com/sky6862/p/7992736.html)
+
++ [GitHub & Git](https://www.nowcoder.com/courses/2)
++ [《Pro Git》](http://iissnan.com/progit/)
 
 
 
