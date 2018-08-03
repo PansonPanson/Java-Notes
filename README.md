@@ -56,6 +56,10 @@ Java开发知识整理：<!--more-->
 + [聊聊并发（七）——Java中的阻塞队列](http://www.infoq.com/cn/articles/java-blocking-queue?utm_source=infoq&utm_campaign=user_page&utm_medium=link)
 + [【死磕Java并发】-----J.U.C之阻塞队列：BlockingQueue总结](https://www.jianshu.com/p/4af8ab00c587)
 + [【死磕Java并发】-----J.U.C之阻塞队列：ArrayBlockingQueue](https://www.jianshu.com/p/0a0b58934401)
++ [【死磕Java并发】-----J.U.C之阻塞队列：LinkedBlockingDeque](https://www.jianshu.com/p/f1b2c053c103)
++ [【死磕Java并发】-----J.U.C之阻塞队列：PriorityBlockingQueue](https://www.jianshu.com/p/43954715aa28)
++ [【死磕Java并发】-----J.U.C之阻塞队列：SynchronousQueue](https://www.jianshu.com/p/9d2c706e45b7)
++ [【死磕Java并发】-----J.U.C之阻塞队列：LinkedTransferQueue](https://www.jianshu.com/p/bd708cb3ea91)
 
 ### 七.Java虚拟机（JVM）
 
