@@ -124,3 +124,7 @@ Java开发知识整理：<!--more-->
 
 [《Maven实战》](https://book.douban.com/subject/5345682/)
 
+[《Java并发编程的艺术》](https://book.douban.com/subject/26591326/)
+
+[《Java并发编程实战》](https://book.douban.com/subject/10484692/)
+
