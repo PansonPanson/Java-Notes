@@ -2,7 +2,7 @@ Java开发知识整理：<!--more-->
 
 ### 一.计算机网络（Computer Networking）
 
-
++ [通俗大白话来理解TCP协议的三次握手和四次分手](https://github.com/jawil/blog/issues/14)
 
 ### 二.操作系统（Operating System）
 
@@ -54,6 +54,8 @@ Java开发知识整理：<!--more-->
 #### 阻塞队列
 
 + [聊聊并发（七）——Java中的阻塞队列](http://www.infoq.com/cn/articles/java-blocking-queue?utm_source=infoq&utm_campaign=user_page&utm_medium=link)
++ [【死磕Java并发】-----J.U.C之阻塞队列：BlockingQueue总结](https://www.jianshu.com/p/4af8ab00c587)
++ [【死磕Java并发】-----J.U.C之阻塞队列：ArrayBlockingQueue](https://www.jianshu.com/p/0a0b58934401)
 
 ### 七.Java虚拟机（JVM）
 
