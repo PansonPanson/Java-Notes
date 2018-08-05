@@ -6,11 +6,15 @@ Java开发知识整理：<!--more-->
 
 + [计算机网络](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md#%E4%BA%94%E8%BF%90%E8%BE%93%E5%B1%82)
 
+
+
 #### TCP、UDP
 
 + [通俗大白话来理解TCP协议的三次握手和四次分手](https://github.com/jawil/blog/issues/14)
 + [TCP 为什么是三次握手，而不是两次或四次？](https://www.zhihu.com/question/24853633)
 + [理解 TCP 和 UDP](https://jerryc8080.gitbooks.io/understand-tcp-and-udp/)
+
+
 
 ## 二.操作系统（Operating System）
 
@@ -22,11 +26,22 @@ Java开发知识整理：<!--more-->
 
 + [MySQL](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/MySQL.md)
 
+
+
  #### MySQL索引
 
 + [MYSQL-索引](https://segmentfault.com/a/1190000003072424)
 + [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html) 
-+ 
+
+
+
+#### MySQL优化
+
++ [MySQL 对于千万级的大表要怎么优化？](https://www.zhihu.com/question/19719997)
++ [MYSQL性能优化的最佳20+条经验](https://coolshell.cn/articles/1846.html)    ===>  [英文原文:Top 20+ MySQL Best Practices](https://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855)
++ [MySQL 性能优化神器 Explain 使用分析](https://segmentfault.com/a/1190000008131735)
+
+
 
 ## 四.Linux
 
@@ -37,7 +52,8 @@ Java开发知识整理：<!--more-->
 + [Java本地方法](https://blog.csdn.net/wi__wi/article/details/51085907)
 + [Java StringBuilder和StringBuffer源码分析](https://segmentfault.com/a/1190000004261063)
 + [Java基础](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%9F%BA%E7%A1%80.md)
-+ [深入分析java线程池的实现原理](https://www.jianshu.com/p/87bff5cc8d8c)
+
+  
 
 #### Java IO
 
