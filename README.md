@@ -18,7 +18,7 @@ Java开发知识整理：<!--more-->
 
 ## 二.操作系统（Operating System）
 
-
+### Linux
 
 ## 三.数据库（Database）
 
@@ -43,7 +43,15 @@ Java开发知识整理：<!--more-->
 
 
 
-## 四.Linux
+## 四.算法
+
+#### 排序算法
+
++ [常用的八种排序算法Java代码实现](https://www.jianshu.com/p/5e171281a387)
+
+
+
+## 
 
 
 
@@ -112,16 +120,9 @@ Java开发知识整理：<!--more-->
 
 
 
-## 十一.算法
-
-+ [算法](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E7%AE%97%E6%B3%95.md)
-+ [《程序员代码面试指南：IT名企算法与数据结构题目最优解》](https://book.douban.com/subject/26638586/)
-+ [剑指offer题解](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E5%89%91%E6%8C%87%20offer%20%E9%A2%98%E8%A7%A3.md)
-+ [leetcode题解](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3.md)
 
 
-
-## 十二.其他
+## 十一.其他
 
 #### Git
 
