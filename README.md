@@ -18,9 +18,15 @@ Java开发知识整理：<!--more-->
 
 ## 三.数据库（Database）
 
-#### MySQL总览
+### MySQL
 
 + [MySQL](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/MySQL.md)
+
+ #### MySQL索引
+
++ [MYSQL-索引](https://segmentfault.com/a/1190000003072424)
++ [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html) 
++ 
 
 ## 四.Linux
 
