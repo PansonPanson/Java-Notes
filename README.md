@@ -57,9 +57,13 @@ Java开发知识整理：<!--more-->
 
 ## 五.Java基础（Basic）
 
-+ [Java本地方法](https://blog.csdn.net/wi__wi/article/details/51085907)
-+ [Java StringBuilder和StringBuffer源码分析](https://segmentfault.com/a/1190000004261063)
 + [Java基础](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%9F%BA%E7%A1%80.md)
+
++ [Java本地方法](https://blog.csdn.net/wi__wi/article/details/51085907)
+
++ [Java StringBuilder和StringBuffer源码分析](https://segmentfault.com/a/1190000004261063)
+
++ [hashcode和equals]()
 
   
 
