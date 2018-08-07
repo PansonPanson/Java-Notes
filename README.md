@@ -68,12 +68,27 @@ Java开发知识整理：<!--more-->
 ## 五.Java基础（Basic）
 
 + [Java基础](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%9F%BA%E7%A1%80.md)
-
 + [Java本地方法](https://blog.csdn.net/wi__wi/article/details/51085907)
 
-+ [Java StringBuilder和StringBuffer源码分析](https://segmentfault.com/a/1190000004261063)
 
-+ [hashcode和equals]()
+
+#### String、StringBuilder和StringBuffer
+
++ [Java StringBuilder和StringBuffer源码分析](https://segmentfault.com/a/1190000004261063)
++ Stack Overflow： [String, StringBuffer, and StringBuilder](https://stackoverflow.com/questions/2971315/string-stringbuffer-and-stringbuilder)
+
+
+
+#### hashCode()和equals()
+
++ [Java hashCode() 和 equals()的若干问题解答](https://www.cnblogs.com/skywang12345/p/3324958.html) 
++ [Java提高篇——equals()与hashCode()方法详解](https://www.cnblogs.com/Qian123/p/5703507.html)
++ [面试官爱问的equals与hashCode](https://juejin.im/post/5a4379d4f265da432003874c)
+
+
+#### 
+
+  
 
   
 
