@@ -1,3 +1,5 @@
+:apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple:
+
 Java开发知识整理：<!--more-->
 
 ## 一.计算机网络（Computer Networking）
@@ -16,9 +18,17 @@ Java开发知识整理：<!--more-->
 
 
 
-#### 路由器和交换机
+#### 集线器、交换机和路由器
 
 + [路由器和交换机的不同之处有哪些？](https://www.zhihu.com/question/20465477)
++ [如何跟小白解释路由器和交换机的区别？](https://www.zhihu.com/question/22007235)
++ [集线器和交换机的区别？](https://www.zhihu.com/question/21782368)
+
+
+
+#### 全双工、半双工和单工
+
++ [串口通讯的单工、半双工和全双工的定义、区别及应用](https://blog.csdn.net/hai673580326/article/details/37819611)
 
 ## 二.操作系统（Operating System）
 
