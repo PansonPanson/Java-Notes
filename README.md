@@ -1,8 +1,6 @@
-:apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple:
+:apple:🍊🍓  *推荐使用[chrome插件:简悦](http://ksria.com/simpread/)来阅读*   🍎🍊🍓
 
-*推荐使用[chrome插件:简悦](http://ksria.com/simpread/)来阅读*
 
-:orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange:
 
 ## 一.计算机网络（Computer Networking）
 
@@ -63,24 +61,31 @@
 
 #### 排序算法
 
++ [常见排序算法及对应的时间复杂度和空间复杂度](http://www.ganecheng.tech/blog/52652705.html)
+
 + [常用的八种排序算法Java代码实现](https://www.jianshu.com/p/5e171281a387)
-
 + [图解排序算法(一)之3种简单排序(选择，冒泡，直接插入)](https://www.cnblogs.com/chengxiao/p/6103002.html)
-
 + [图解排序算法(二)之希尔排序](http://www.cnblogs.com/chengxiao/p/6104371.html) 
-
 + [图解排序算法(三)之堆排序](http://www.cnblogs.com/chengxiao/p/6129630.html) 
-
 + [图解排序算法(四)之归并排序](https://www.cnblogs.com/chengxiao/p/6194356.html)
-
 + [图解排序算法(五)之快速排序——三数取中法](http://www.cnblogs.com/chengxiao/p/6262208.html) 
 
-  
+
+
+#### 字典树（Trie） 
+
++ [Trie树详解](https://www.jianshu.com/p/6f81da81bd02)
++ 
 
 ## 五.Java基础（Basic）
 
 + [Java基础](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%9F%BA%E7%A1%80.md)
+
 + [Java本地方法](https://blog.csdn.net/wi__wi/article/details/51085907)
+
++ [Java中的Switch对整型、字符型、字符串型的具体实现细节](http://www.hollischuang.com/archives/61)
+
+  
 
 
 
