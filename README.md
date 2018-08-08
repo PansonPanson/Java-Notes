@@ -1,10 +1,6 @@
 :apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple::apple:
 
-+++++
-
 *推荐使用[chrome插件:简悦](http://ksria.com/simpread/)来阅读*
-
-+++++++
 
 :orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange::orange:
 
