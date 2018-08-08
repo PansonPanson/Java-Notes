@@ -16,6 +16,10 @@ Java开发知识整理：<!--more-->
 
 
 
+#### 路由器和交换机
+
++ [路由器和交换机的不同之处有哪些？](https://www.zhihu.com/question/20465477)
+
 ## 二.操作系统（Operating System）
 
 ### Linux
@@ -61,10 +65,6 @@ Java开发知识整理：<!--more-->
 
   
 
-## 
-
-
-
 ## 五.Java基础（Basic）
 
 + [Java基础](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%9F%BA%E7%A1%80.md)
@@ -74,6 +74,8 @@ Java开发知识整理：<!--more-->
 
 #### String、StringBuilder和StringBuffer
 
++ [在java中String类为什么要设计成final？ - 知乎](https://www.zhihu.com/question/31345592)
+
 + [Java StringBuilder和StringBuffer源码分析](https://segmentfault.com/a/1190000004261063)
 + Stack Overflow： [String, StringBuffer, and StringBuilder](https://stackoverflow.com/questions/2971315/string-stringbuffer-and-stringbuilder)
 
@@ -82,15 +84,13 @@ Java开发知识整理：<!--more-->
 #### hashCode()和equals()
 
 + [Java hashCode() 和 equals()的若干问题解答](https://www.cnblogs.com/skywang12345/p/3324958.html) 
+
 + [Java提高篇——equals()与hashCode()方法详解](https://www.cnblogs.com/Qian123/p/5703507.html)
+
 + [面试官爱问的equals与hashCode](https://juejin.im/post/5a4379d4f265da432003874c)
 
-
-#### 
-
   
 
-  
 
 #### Java IO
 
@@ -102,6 +102,12 @@ Java开发知识整理：<!--more-->
 + [java 集合类知识汇总](https://mp.weixin.qq.com/s/2P-wEvmig-M2Ehde1REGjQ)
 + [Java 容器](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%AE%B9%E5%99%A8.md#arraylist)
 + [ArrayList vs. LinkedList vs. Vector](http://www.importnew.com/8782.html)
++ 优先级队列
+  + [PriorityQueue](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/8-PriorityQueue.md)
+  + [优先级队列是一种什么样的数据结构](http://www.importnew.com/6510.html)
+  + [堆排序和 PriorityQueue 源码解析](https://zhuanlan.zhihu.com/p/25843530)
+  + [基于堆实现的优先级队列：PriorityQueue 解决 Top K 问题](https://my.oschina.net/leejun2005/blog/135085)
+  + [jdk源码分析PriorityQueue](http://zswlib.iteye.com/blog/2334463)]
 
 ##  六.Java并发（Concurrency）
 
