@@ -30,6 +30,8 @@
 
 + [串口通讯的单工、半双工和全双工的定义、区别及应用](https://blog.csdn.net/hai673580326/article/details/37819611)
 
+
+
 ## 二.操作系统（Operating System）
 
 ### Linux
@@ -57,6 +59,14 @@
 
 
 
+#### MySQL的锁
+
++ [对mysql乐观锁、悲观锁、共享锁、排它锁、行锁、表锁概念的理解](https://blog.csdn.net/puhaiyang/article/details/72284702)
++ [数据库的锁机制](http://www.hollischuang.com/archives/909)
++ [深入理解乐观锁与悲观锁](http://www.hollischuang.com/archives/934)
+
+
+
 ## 四.算法
 
 #### 排序算法
@@ -77,6 +87,8 @@
 + [从Trie树（字典树）谈到后缀树](https://blog.csdn.net/v_july_v/article/details/6897097)
 + [Trie 三兄弟——标准 Trie、压缩 Trie、后缀 Trie](https://www.cnblogs.com/youxin/p/3301411.html)
 
+
+
 ## 五.Java基础（Basic）
 
 + [Java基础](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%9F%BA%E7%A1%80.md)
@@ -86,8 +98,6 @@
 + [Java中的Switch对整型、字符型、字符串型的具体实现细节](http://www.hollischuang.com/archives/61)
 
   
-
-
 
 #### String、StringBuilder和StringBuffer
 
@@ -119,10 +129,26 @@
 #### Java容器
 
 + [Java集合学习指南](http://wiki.jikexueyuan.com/project/java-collection/)
+
 + [java 集合类知识汇总](https://mp.weixin.qq.com/s/2P-wEvmig-M2Ehde1REGjQ)
+
 + [Java 容器](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%AE%B9%E5%99%A8.md#arraylist)
+
 + [ArrayList vs. LinkedList vs. Vector](http://www.importnew.com/8782.html)
-+ 优先级队列
+
++ [ArrayList、LinkedList、Vector、HashSet、Treeset、HashMap、TreeMap的区别和适用场景](http://bs-yg.iteye.com/blog/2253605)
+
++ [Java Collections Framework - ArrayList](https://www.jianshu.com/p/4b7aa8a022ba)
+
++ **HashMap与ConcurrentHashMap**
+
+  + [占小狼：深入浅出ConcurrentHashMap1.8](https://www.jianshu.com/p/c0642afe03e0)
+  + [占小狼：谈谈ConcurrentHashMap1.7和1.8的不同实现](https://www.jianshu.com/p/e694f1e868ec)
+  + [占小狼：ConcurrentHashMap的红黑树实现分析](https://www.jianshu.com/p/23b84ba9a498)
+  + [占小狼：老生常谈，HashMap的死循环](https://www.jianshu.com/p/1e9cf0ac07f4)
+  + [HashMap与ConcurrentHashMap在JDK1.7和JDK1.8中的实现](https://crossoverjie.top/2018/07/23/java-senior/ConcurrentHashMap/)
+
++ **优先级队列**
   + [PriorityQueue](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/8-PriorityQueue.md)
   + [优先级队列是一种什么样的数据结构](http://www.importnew.com/6510.html)
   + [堆排序和 PriorityQueue 源码解析](https://zhuanlan.zhihu.com/p/25843530)
@@ -164,6 +190,22 @@
 
 
 
+#### synchronized和lock
+
++ [【死磕Java并发】-----深入分析synchronized的实现原理](https://www.jianshu.com/p/fe49b156b1a6)
++ [深入浅出synchronized](https://www.jianshu.com/p/19f861ab749e)
++ [Lock与synchronized 的区别](http://houlinyan.iteye.com/blog/1112535)
++ [并发编程的锁机制：synchronized和lock](https://juejin.im/post/5a43ad786fb9a0450909cb5f)
+
+
+
+#### CAS
+
++ [面试必问的CAS，要多了解](https://www.jianshu.com/p/24ffe531e9ee)
++ [乐观锁的一种实现方式——CAS](http://www.hollischuang.com/archives/1537)
++ [【死磕Java并发】-----J.U.C之深入分析CAS](https://www.jianshu.com/p/61c90bd79d66)
+
+
 ## 七.Java虚拟机（JVM）
 
 + [JVM一览](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
@@ -200,18 +242,21 @@
 
 + [并发编程网：JVM实用参数系列 ](http://ifeve.com/useful-jvm-flags/)
 
+
+
 ## 八.设计模式（Design Patterns）
 
 + [六大设计原则](http://wiki.jikexueyuan.com/project/java-design-pattern-principle/)
-+ 
+
+
+
+
 
 ## 九.框架（Framework）
 
 
 
 ## 十.分布式
-
-
 
 
 
