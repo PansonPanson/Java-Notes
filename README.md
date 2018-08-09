@@ -74,8 +74,9 @@
 
 #### 字典树（Trie） 
 
++ [从Trie树（字典树）谈到后缀树](https://blog.csdn.net/v_july_v/article/details/6897097)
 + [Trie树详解](https://www.jianshu.com/p/6f81da81bd02)
-+ 
++ [Trie 三兄弟——标准 Trie、压缩 Trie、后缀 Trie](https://www.cnblogs.com/youxin/p/3301411.html)
 
 ## 五.Java基础（Basic）
 
