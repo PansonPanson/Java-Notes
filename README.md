@@ -167,9 +167,33 @@
 ## 七.Java虚拟机（JVM）
 
 + [JVM一览](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
+
+
+
+#### JVM内存结构
+
++ [JAVA8：永久代(PermGen)和元空间(Metaspace)](https://www.cnblogs.com/paddix/p/5309550.html)
+
 + [JVM内存结构 VS Java内存模型 VS Java对象模型](https://blog.csdn.net/hollis_chuang/article/details/80839410)
++ [JVM内存的那些事](https://www.jianshu.com/p/eaef248b5a2c)
 
 
+
+#### 垃圾收集（GC)
+
++ [深入理解 java 垃圾回收机制](https://www.cnblogs.com/sunniest/p/4575144.html)
++ [不同的垃圾回收器的比较](http://www.importnew.com/15869.html)
++ [了解CMS(Concurrent Mark-Sweep)垃圾回收器](http://www.importnew.com/2782.html)
++ [并发编程网：深入理解G1垃圾收集器](http://ifeve.com/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3g1%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8/)
++ [占小狼：G1垃圾收集器介绍](https://www.jianshu.com/p/0f1f5adffdc1)
++ [占小狼：Java GC的那些事（1）](https://www.jianshu.com/p/6d1cbe38a54b)
++ [知乎：怎么在面试时回答Java垃圾回收机制（GC）相关问题？](https://www.zhihu.com/question/35164211)
+
+
+
+#### JVM参数
+
++ [并发编程网：JVM实用参数系列 ](http://ifeve.com/useful-jvm-flags/)
 
 ## 八.设计模式（Design Patterns）
 
