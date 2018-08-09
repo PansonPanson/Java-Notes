@@ -75,7 +75,6 @@
 #### 字典树（Trie） 
 
 + [从Trie树（字典树）谈到后缀树](https://blog.csdn.net/v_july_v/article/details/6897097)
-+ [Trie树详解](https://www.jianshu.com/p/6f81da81bd02)
 + [Trie 三兄弟——标准 Trie、压缩 Trie、后缀 Trie](https://www.cnblogs.com/youxin/p/3301411.html)
 
 ## 五.Java基础（Basic）
@@ -109,10 +108,13 @@
 
   
 
-
 #### Java IO
 
++ [Java IO教程](http://ifeve.com/java-io/)
+
 + [Java NIO 系列教程](http://ifeve.com/java-nio-all/)
+
+
 
 #### Java容器
 
@@ -127,6 +129,8 @@
   + [基于堆实现的优先级队列：PriorityQueue 解决 Top K 问题](https://my.oschina.net/leejun2005/blog/135085)
   + [jdk源码分析PriorityQueue](http://zswlib.iteye.com/blog/2334463)]
 
+  
+
 ##  六.Java并发（Concurrency）
 
 #### 并发合集
@@ -137,12 +141,16 @@
 + [Java 并发](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%B9%B6%E5%8F%91.md)
 + [Java 并发知识合集](https://github.com/CL0610/Java-concurrency)
 
+
+
 #### 线程池
 
 + [深入分析java线程池的实现原理](https://www.jianshu.com/p/87bff5cc8d8c)
 + [线程池的工作原理与源码解读](https://www.cnblogs.com/qingquanzi/p/8146638.html)
 + [Java并发编程：线程池的使用](https://www.cnblogs.com/dolphin0520/p/3932921.html)
 + [聊聊并发（三）——JAVA线程池的分析和使用](http://www.infoq.com/cn/articles/java-threadPool)
+
+
 
 #### 阻塞队列
 
@@ -154,9 +162,12 @@
 + [【死磕Java并发】-----J.U.C之阻塞队列：SynchronousQueue](https://www.jianshu.com/p/9d2c706e45b7)
 + [【死磕Java并发】-----J.U.C之阻塞队列：LinkedTransferQueue](https://www.jianshu.com/p/bd708cb3ea91)
 
+
+
 ## 七.Java虚拟机（JVM）
 
 + [JVM一览](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
++ [JVM内存结构 VS Java内存模型 VS Java对象模型](https://blog.csdn.net/hollis_chuang/article/details/80839410)
 
 
 
@@ -186,7 +197,7 @@
 
 
 
-**参考资料（Reference）：**
+## 参考资料（Reference）：
 
 [《图解HTTP》](https://book.douban.com/subject/25863515/)
 
@@ -196,11 +207,11 @@
 
 [《MySQL必知必会》](https://book.douban.com/subject/3354490/)
 
+[《高性能MySQL》](https://book.douban.com/subject/23008813/)
+
 [ Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 [《程序员代码面试指南：IT名企算法与数据结构题目最优解》](https://book.douban.com/subject/26638586/)
-
-[《高性能MySQL》](https://book.douban.com/subject/23008813/)
 
 [《Java编程思想》](https://book.douban.com/subject/2130190/)
 
