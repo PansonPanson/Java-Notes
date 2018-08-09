@@ -87,7 +87,9 @@
 + [从Trie树（字典树）谈到后缀树](https://blog.csdn.net/v_july_v/article/details/6897097)
 + [Trie 三兄弟——标准 Trie、压缩 Trie、后缀 Trie](https://www.cnblogs.com/youxin/p/3301411.html)
 
+#### 红黑树
 
++ [红黑树](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/03.01.md)
 
 ## 五.Java基础（Basic）
 
