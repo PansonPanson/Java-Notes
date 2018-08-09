@@ -187,6 +187,11 @@
 + [并发编程网：深入理解G1垃圾收集器](http://ifeve.com/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3g1%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8/)
 + [占小狼：G1垃圾收集器介绍](https://www.jianshu.com/p/0f1f5adffdc1)
 + [占小狼：Java GC的那些事（1）](https://www.jianshu.com/p/6d1cbe38a54b)
++ [占小狼：Java GC的那些事（2）](https://www.jianshu.com/p/94989b278114)
++ [Java GC系列（1）：Java垃圾回收简介](http://www.importnew.com/13504.html)
++ [Java GC系列（2）：Java垃圾回收是如何工作的？](http://www.importnew.com/13493.html)
++ [Java GC系列（3）：垃圾回收器种类](http://www.importnew.com/13827.html)
++ [Java GC系列（4）：垃圾回收监视和分析](http://www.importnew.com/13838.html)
 + [知乎：怎么在面试时回答Java垃圾回收机制（GC）相关问题？](https://www.zhihu.com/question/35164211)
 
 
