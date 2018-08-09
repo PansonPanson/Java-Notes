@@ -206,6 +206,14 @@
 + [【死磕Java并发】-----J.U.C之深入分析CAS](https://www.jianshu.com/p/61c90bd79d66)
 
 
+
+#### Java中的锁
+
++ [Java中的锁](http://www.importnew.com/19472.html)
++ [【死磕Java并发】-----J.U.C之重入锁：ReentrantLock](https://www.jianshu.com/p/508412a6ffdc)
++ [【死磕Java并发】-----J.U.C之读写锁：ReentrantReadWriteLock](https://www.jianshu.com/p/d47fe1ec1bb3)
+
+
 ## 七.Java虚拟机（JVM）
 
 + [JVM一览](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
