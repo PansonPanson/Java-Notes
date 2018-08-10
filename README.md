@@ -271,6 +271,10 @@
 + [知乎：Spring IOC原理总结](https://zhuanlan.zhihu.com/p/29344811)
 + [知乎：Spring IoC有什么好处呢？](https://www.zhihu.com/question/23277575)
 
+### AOP
+
++ [Spring AOP 实现原理与 CGLIB 应用](https://www.ibm.com/developerworks/cn/java/j-lo-springaopcglib/index.html)
+
 # 十.分布式
 
 
