@@ -282,13 +282,20 @@
 ## Spring MVC
 
 + [知乎：servlet的本质是什么，它是如何工作的？](https://www.zhihu.com/question/21416727)
+
 + [许令波：Servlet 工作原理解析](https://www.ibm.com/developerworks/cn/java/j-lo-servlet/index.html)
+
 + [Servlet生命周期与工作原理](https://www.cnblogs.com/cuiliang/archive/2011/10/21/2220671.html)
+
++ [SpringMVC深度探险系列](http://www.iteye.com/blogs/subjects/springmvc-explore)
+
 + [SpringMVC面试题](https://www.w3cschool.cn/qgutf/)
 
+  
 
+## MyBatis
 
-
++ [Mybatis常见面试题](https://www.w3cschool.cn/kzsow/)
 
 # 十.分布式
 
