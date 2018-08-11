@@ -101,6 +101,13 @@
 
 + [Java中的Switch对整型、字符型、字符串型的具体实现细节](http://www.hollischuang.com/archives/61)
 
++ 反射
+
+  + [知乎：学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
+  + [深入解析Java反射（1） - 基础](https://www.sczyh30.com/posts/Java/java-reflection-1/#)
+  + [深入解析Java反射（2） - invoke方法](https://www.sczyh30.com/posts/Java/java-reflection-2/)
+  + [并发编程网：Java Reflection教程 ](http://ifeve.com/java-reflection/)
+
   
 
 ### String、StringBuilder和StringBuffer
