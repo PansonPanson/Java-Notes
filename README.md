@@ -250,6 +250,11 @@
 
 
 
+### 类加载
+
++ [深入探讨 Java 类加载器](https://www.ibm.com/developerworks/cn/java/j-lo-classloader/index.html)
++ [深入分析Java ClassLoader原理](http://www.importnew.com/15362.html)
+
 ### JVM参数
 
 + [并发编程网：JVM实用参数系列 ](http://ifeve.com/useful-jvm-flags/)
