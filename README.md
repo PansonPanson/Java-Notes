@@ -101,7 +101,7 @@
 
 + [Java中的Switch对整型、字符型、字符串型的具体实现细节](http://www.hollischuang.com/archives/61)
 
-+ 反射
+### 反射
 
   + [知乎：学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
   + [深入解析Java反射（1） - 基础](https://www.sczyh30.com/posts/Java/java-reflection-1/#)
@@ -284,6 +284,8 @@
 
 + [知乎：Spring IOC原理总结](https://zhuanlan.zhihu.com/p/29344811)
 + [知乎：Spring IoC有什么好处呢？](https://www.zhihu.com/question/23277575)
++ BeanFactory、ApplicationContext以及WebApplicationContext
++ BeanFactory和ApplicationContext中各自Bean的生命周期
 
 ### AOP
 
@@ -315,9 +317,17 @@
 
 
 
-# 十一.其他
+# 十一.搜索引擎
 
-### Git
+##Elasticsearch
+
+## Apache Solr
+
+
+
+# 十二.其他
+
+## Git
 
 + [使用git提交到github,每次都要输入用户名和密码的解决方法](https://www.cnblogs.com/sky6862/p/7992736.html)
 
