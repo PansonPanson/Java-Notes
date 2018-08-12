@@ -291,6 +291,8 @@
 ### AOP
 
 + [Spring AOP 实现原理与 CGLIB 应用](https://www.ibm.com/developerworks/cn/java/j-lo-springaopcglib/index.html)
++ JDK动态代理
++ CGLib动态代理
 
 ### 面试
 
