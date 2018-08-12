@@ -286,6 +286,7 @@
 + [知乎：Spring IoC有什么好处呢？](https://www.zhihu.com/question/23277575)
 + BeanFactory、ApplicationContext以及WebApplicationContext
 + BeanFactory和ApplicationContext中各自Bean的生命周期
++ Bean的注入方式和作用域
 
 ### AOP
 
