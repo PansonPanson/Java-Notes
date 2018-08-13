@@ -46,6 +46,9 @@
 + [彻底理解数据库事务](http://www.hollischuang.com/archives/898)
 + [深入分析事务的隔离级别](http://www.hollischuang.com/archives/943)
 + [知乎：数据库事务原子性、一致性是怎样实现的？](https://www.zhihu.com/question/30272728)
++ [知乎：乐观锁和 MVCC 的区别？](https://www.zhihu.com/question/27876575)
++ [浅谈数据库并发控制 - 锁和 MVCC](https://draveness.me/database-concurrency-control)
++ [InnoDB存储引擎MVCC实现原理](https://liuzhengyang.github.io/2017/04/18/innodb-mvcc/)
 
 #### 范式
 
