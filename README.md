@@ -113,10 +113,17 @@
 # 五.Java基础（Basic）
 
 + [Java基础](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%9F%BA%E7%A1%80.md)
-
++ [美团技术团队：深入解析String的intern()方法](https://tech.meituan.com/in_depth_understanding_string_intern.html)
 + [Java本地方法](https://blog.csdn.net/wi__wi/article/details/51085907)
-
 + [Java中的Switch对整型、字符型、字符串型的具体实现细节](http://www.hollischuang.com/archives/61)
+
+
+
+#### 序列化与反序列化
+
++ [美团技术团队：序列化和反序列化](https://tech.meituan.com/serialization_vs_deserialization.html)
+
+
 
 #### 反射
 
@@ -175,6 +182,7 @@
   + [占小狼：ConcurrentHashMap的红黑树实现分析](https://www.jianshu.com/p/23b84ba9a498)
   + [占小狼：老生常谈，HashMap的死循环](https://www.jianshu.com/p/1e9cf0ac07f4)
   + [HashMap与ConcurrentHashMap在JDK1.7和JDK1.8中的实现](https://crossoverjie.top/2018/07/23/java-senior/ConcurrentHashMap/)
+  + [美团技术团队：Java 8系列之重新认识HashMap](https://tech.meituan.com/java_hashmap.html)
 
 + **优先级队列**
   + [PriorityQueue](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/8-PriorityQueue.md)
@@ -278,8 +286,7 @@
 + [Java GC系列（3）：垃圾回收器种类](http://www.importnew.com/13827.html)
 + [Java GC系列（4）：垃圾回收监视和分析](http://www.importnew.com/13838.html)
 + [知乎：怎么在面试时回答Java垃圾回收机制（GC）相关问题？](https://www.zhihu.com/question/35164211)
-
-
++ [美团技术团队：Java Hotspot G1 GC的一些关键技术](https://tech.meituan.com/g1.html)
 
 #### 类加载
 
@@ -347,7 +354,7 @@
 
 # 十.分布式
 
-
++ [美团技术团队：分布式系统互斥性与幂等性问题的分析与解决](https://tech.meituan.com/distributed_system_mutually_exclusive_idempotence_cerberus_gtis.html)
 
 # 十一.搜索引擎
 
