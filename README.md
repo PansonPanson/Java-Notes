@@ -336,6 +336,7 @@
 
 ## MyBatis
 
++ [美团技术团队：聊聊MyBatis缓存机制](https://tech.meituan.com/mybatis_cache.html)
 + [Mybatis常见面试题](https://www.w3cschool.cn/kzsow/)
 
 # 十.分布式
@@ -344,7 +345,7 @@
 
 # 十一.搜索引擎
 
-##Elasticsearch
+## Elasticsearch
 
 ## Apache Solr
 
