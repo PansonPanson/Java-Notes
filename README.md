@@ -4,13 +4,13 @@
 
 # 一.计算机网络（Computer Networking）
 
-### 计算机网络总览
+#### 计算机网络总览
 
 + [计算机网络](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md#%E4%BA%94%E8%BF%90%E8%BE%93%E5%B1%82)
 
 
 
-### TCP、UDP
+#### TCP、UDP
 
 + [通俗大白话来理解TCP协议的三次握手和四次分手](https://github.com/jawil/blog/issues/14)
 + [TCP 为什么是三次握手，而不是两次或四次？](https://www.zhihu.com/question/24853633)
@@ -18,7 +18,7 @@
 
 
 
-### 集线器、交换机和路由器
+#### 集线器、交换机和路由器
 
 + [路由器和交换机的不同之处有哪些？](https://www.zhihu.com/question/20465477)
 + [如何跟小白解释路由器和交换机的区别？](https://www.zhihu.com/question/22007235)
@@ -26,7 +26,7 @@
 
 
 
-### 全双工、半双工和单工
+#### 全双工、半双工和单工
 
 + [串口通讯的单工、半双工和全双工的定义、区别及应用](https://blog.csdn.net/hai673580326/article/details/37819611)
 
@@ -38,28 +38,31 @@
 
 # 三.数据库（Database）
 
+## 数据库理论
+
+#### 事务
+
++ [『浅入深出』MySQL 中事务的实现](https://draveness.me/mysql-transaction)
++ [彻底理解数据库事务](http://www.hollischuang.com/archives/898)
++ [深入分析事务的隔离级别](http://www.hollischuang.com/archives/943)
++ [知乎：数据库事务原子性、一致性是怎样实现的？](https://www.zhihu.com/question/30272728)
+
 ## MySQL
 
 + [MySQL](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/MySQL.md)
 
-
-
- ### MySQL索引
+#### MySQL索引
 
 + [MYSQL-索引](https://segmentfault.com/a/1190000003072424)
 + [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html) 
 
-
-
-### MySQL优化
+#### MySQL优化
 
 + [MySQL 对于千万级的大表要怎么优化？](https://www.zhihu.com/question/19719997)
 + [MYSQL性能优化的最佳20+条经验](https://coolshell.cn/articles/1846.html)    ===>  [英文原文:Top 20+ MySQL Best Practices](https://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855)
 + [MySQL 性能优化神器 Explain 使用分析](https://segmentfault.com/a/1190000008131735)
 
-
-
-### MySQL的锁
+#### MySQL的锁
 
 + [对mysql乐观锁、悲观锁、共享锁、排它锁、行锁、表锁概念的理解](https://blog.csdn.net/puhaiyang/article/details/72284702)
 + [数据库的锁机制](http://www.hollischuang.com/archives/909)
@@ -69,7 +72,7 @@
 
 # 四.算法
 
-### 排序算法
+#### 排序算法
 
 + [常见排序算法及对应的时间复杂度和空间复杂度](http://www.ganecheng.tech/blog/52652705.html)
 
@@ -80,16 +83,16 @@
 + [图解排序算法(四)之归并排序](https://www.cnblogs.com/chengxiao/p/6194356.html)
 + [图解排序算法(五)之快速排序——三数取中法](http://www.cnblogs.com/chengxiao/p/6262208.html) 
 
-### 递归与尾递归
+#### 递归与尾递归
 
 + [知乎：什么是尾递归？](https://www.zhihu.com/question/20761771)
 
-### 字典树（Trie） 
+#### 字典树（Trie） 
 
 + [从Trie树（字典树）谈到后缀树](https://blog.csdn.net/v_july_v/article/details/6897097)
 + [Trie 三兄弟——标准 Trie、压缩 Trie、后缀 Trie](https://www.cnblogs.com/youxin/p/3301411.html)
 
-### 红黑树
+#### 红黑树
 
 + [红黑树](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/03.01.md)
 
@@ -101,7 +104,7 @@
 
 + [Java中的Switch对整型、字符型、字符串型的具体实现细节](http://www.hollischuang.com/archives/61)
 
-### 反射
+#### 反射
 
   + [知乎：学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
   + [深入解析Java反射（1） - 基础](https://www.sczyh30.com/posts/Java/java-reflection-1/#)
@@ -110,7 +113,7 @@
 
   
 
-### String、StringBuilder和StringBuffer
+#### String、StringBuilder和StringBuffer
 
 + [在java中String类为什么要设计成final？ - 知乎](https://www.zhihu.com/question/31345592)
 
@@ -119,7 +122,7 @@
 
 
 
-### hashCode()和equals()
+#### hashCode()和equals()
 
 + [Java hashCode() 和 equals()的若干问题解答](https://www.cnblogs.com/skywang12345/p/3324958.html) 
 
@@ -129,7 +132,7 @@
 
   
 
-### Java IO
+#### Java IO
 
 + [Java IO教程](http://ifeve.com/java-io/)
 
@@ -137,7 +140,7 @@
 
 
 
-### Java容器
+#### Java容器
 
 + [Java集合学习指南](http://wiki.jikexueyuan.com/project/java-collection/)
 
@@ -170,7 +173,7 @@
 
 #  六.Java并发（Concurrency）
 
-### 并发合集
+#### 并发合集
 
 + [深入理解java内存模型系列文章](http://ifeve.com/java-memory-model-0/)
 + [深入浅出 Java Concurrency](http://www.blogjava.net/xylz/archive/2010/07/08/325587.html) 
@@ -180,7 +183,7 @@
 
 
 
-### 线程池
+#### 线程池
 
 + [深入分析java线程池的实现原理](https://www.jianshu.com/p/87bff5cc8d8c)
 + [线程池的工作原理与源码解读](https://www.cnblogs.com/qingquanzi/p/8146638.html)
@@ -189,7 +192,7 @@
 
 
 
-### 阻塞队列
+#### 阻塞队列
 
 + [聊聊并发（七）——Java中的阻塞队列](http://www.infoq.com/cn/articles/java-blocking-queue?utm_source=infoq&utm_campaign=user_page&utm_medium=link)
 + [【死磕Java并发】-----J.U.C之阻塞队列：BlockingQueue总结](https://www.jianshu.com/p/4af8ab00c587)
@@ -201,7 +204,7 @@
 
 
 
-### synchronized和lock
+#### synchronized和lock
 
 + [【死磕Java并发】-----深入分析synchronized的实现原理](https://www.jianshu.com/p/fe49b156b1a6)
 + [深入浅出synchronized](https://www.jianshu.com/p/19f861ab749e)
@@ -210,7 +213,7 @@
 
 
 
-### CAS
+#### CAS
 
 + [面试必问的CAS，要多了解](https://www.jianshu.com/p/24ffe531e9ee)
 + [乐观锁的一种实现方式——CAS](http://www.hollischuang.com/archives/1537)
@@ -218,7 +221,7 @@
 
 
 
-### Java中的锁
+#### Java中的锁
 
 + [Java中的锁](http://www.importnew.com/19472.html)
 + [【死磕Java并发】-----J.U.C之重入锁：ReentrantLock](https://www.jianshu.com/p/508412a6ffdc)
@@ -231,7 +234,7 @@
 
 
 
-### JVM内存结构
+#### JVM内存结构
 
 + [JAVA8：永久代(PermGen)和元空间(Metaspace)](https://www.cnblogs.com/paddix/p/5309550.html)
 
@@ -240,7 +243,7 @@
 
 
 
-### 垃圾收集（GC)
+#### 垃圾收集（GC)
 
 + [深入理解 java 垃圾回收机制](https://www.cnblogs.com/sunniest/p/4575144.html)
 + [不同的垃圾回收器的比较](http://www.importnew.com/15869.html)
@@ -257,12 +260,12 @@
 
 
 
-### 类加载
+#### 类加载
 
 + [深入探讨 Java 类加载器](https://www.ibm.com/developerworks/cn/java/j-lo-classloader/index.html)
 + [深入分析Java ClassLoader原理](http://www.importnew.com/15362.html)
 
-### JVM参数
+#### JVM参数
 
 + [并发编程网：JVM实用参数系列 ](http://ifeve.com/useful-jvm-flags/)
 
@@ -280,7 +283,9 @@
 
 ## Spring
 
-### IoC
++ [Spring 框架的设计理念与设计模式分析](https://www.ibm.com/developerworks/cn/java/j-lo-spring-principle/index.html)
+
+#### IoC
 
 + [知乎：Spring IOC原理总结](https://zhuanlan.zhihu.com/p/29344811)
 + [知乎：Spring IoC有什么好处呢？](https://www.zhihu.com/question/23277575)
@@ -288,13 +293,14 @@
 + BeanFactory和ApplicationContext中各自Bean的生命周期
 + Bean的注入方式和作用域
 
-### AOP
+#### AOP
 
 + [Spring AOP 实现原理与 CGLIB 应用](https://www.ibm.com/developerworks/cn/java/j-lo-springaopcglib/index.html)
-+ JDK动态代理
-+ CGLib动态代理
++ 动态代理
+  + [JDK动态代理代理与Cglib代理原理探究 ](http://ifeve.com/jdk%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%E4%BB%A3%E7%90%86%E4%B8%8Ecglib%E4%BB%A3%E7%90%86%E5%8E%9F%E7%90%86%E6%8E%A2%E7%A9%B6/)
+  + [Java Proxy 和 CGLIB 动态代理原理](http://www.importnew.com/27772.html)
 
-### 面试
+#### 面试
 
 + [Spring常见面试题](https://www.w3cschool.cn/fisug/)
 
