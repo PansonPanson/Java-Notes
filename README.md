@@ -79,6 +79,10 @@
 
 
 
+## Redis
+
++ [美团技术团队：缓存那些事](https://tech.meituan.com/cache_about.html)
+
 # 四.算法
 
 #### 排序算法
@@ -281,9 +285,10 @@
 + [深入探讨 Java 类加载器](https://www.ibm.com/developerworks/cn/java/j-lo-classloader/index.html)
 + [深入分析Java ClassLoader原理](http://www.importnew.com/15362.html)
 
-#### JVM参数
+#### 性能调优
 
 + [并发编程网：JVM实用参数系列 ](http://ifeve.com/useful-jvm-flags/)
++ [美团技术团队：从实际案例聊聊Java应用的GC优化](https://tech.meituan.com/jvm_optimize.html)
 
 
 
@@ -360,7 +365,15 @@
 + [GitHub & Git](https://www.nowcoder.com/courses/2)
 + [《Pro Git》](http://iissnan.com/progit/)
 
+## 杂
 
++ [美团技术团队：常见性能优化策略的总结](http://tech.meituan.com/performance_tunning.html)
+
++ [美团技术团队：性能优化模式](http://tech.meituan.com/performance_tuning_pattern.html) 
+
+  
+
+  
 
 # 参考资料（Reference）：
 
