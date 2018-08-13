@@ -47,6 +47,12 @@
 + [深入分析事务的隔离级别](http://www.hollischuang.com/archives/943)
 + [知乎：数据库事务原子性、一致性是怎样实现的？](https://www.zhihu.com/question/30272728)
 
+#### 范式
+
++ [解释一下关系数据库的第一第二第三范式？](https://www.zhihu.com/question/24696366/answer/29189700)
+
+
+
 ## MySQL
 
 + [MySQL](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/MySQL.md)
