@@ -230,6 +230,13 @@
 
 
 
+#### ThreadLocal
+
++ [深入浅出ThreadLocal](https://www.jianshu.com/p/33c5579ef44f)
++ [Java面试必问，ThreadLocal终极篇](https://www.jianshu.com/p/377bb840802f)
++ [【死磕Java并发】—–深入分析ThreadLocal](http://cmsblogs.com/?p=2442)
++ 
+
 #### Java中的锁
 
 + [Java中的锁](http://www.importnew.com/19472.html)
