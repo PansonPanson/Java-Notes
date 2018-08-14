@@ -369,9 +369,16 @@
 ## Git
 
 + [使用git提交到github,每次都要输入用户名和密码的解决方法](https://www.cnblogs.com/sky6862/p/7992736.html)
-
 + [GitHub & Git](https://www.nowcoder.com/courses/2)
 + [《Pro Git》](http://iissnan.com/progit/)
+
+## 任务调度
++ [Java定时任务调度工具详解之Timer篇](https://www.imooc.com/learn/841)
++ [Java定时任务调度工具详解之Quartz篇](https://www.imooc.com/learn/846)
++ [Quartz官方文档中文版](https://www.w3cschool.cn/quartz_doc/)
++ [Quartz Documentation](http://www.quartz-scheduler.org/documentation/)
+
+
 
 ## 杂
 
