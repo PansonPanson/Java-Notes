@@ -117,6 +117,13 @@
 + [Java本地方法](https://blog.csdn.net/wi__wi/article/details/51085907)
 + [Java中的Switch对整型、字符型、字符串型的具体实现细节](http://www.hollischuang.com/archives/61)
 
+#### Java异常
+
++ [Java 异常处理](http://www.runoob.com/java/java-exceptions.html)
++ [Java 中的异常和处理详解](http://www.importnew.com/26613.html)
++ [知乎：如何优雅地处理异常？](https://www.zhihu.com/question/28254987)
+
+
 
 
 #### 序列化与反序列化
