@@ -340,6 +340,12 @@
 
 + [Spring常见面试题](https://www.w3cschool.cn/fisug/)
 
+
+
+## Spring Boot
+
++ @SpringBootApplication(源码分析与启动流程)：推荐阅读《Spring Boot揭秘》第三章
+
 ## Spring MVC
 
 + [知乎：servlet的本质是什么，它是如何工作的？](https://www.zhihu.com/question/21416727)
