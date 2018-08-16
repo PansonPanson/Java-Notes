@@ -344,7 +344,7 @@
 
 ## Spring Boot
 
-+ @SpringBootApplication(源码分析与启动流程)：推荐阅读《Spring Boot揭秘》第三章
++ [@SpringBootApplication(源码分析与启动流程)](http://tengj.top/2017/03/09/springboot3/)：推荐阅读《Spring Boot揭秘》第三章
 
 ## Spring MVC
 
