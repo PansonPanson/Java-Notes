@@ -46,6 +46,10 @@
 + [实验楼：高级 bash 脚本编程指南](https://www.shiyanlou.com/courses/944)
 + [《Linux Shell脚本攻略》](https://book.douban.com/subject/6889456/)
 
+#### Vim
+
++ [Vim编辑器基本使用](https://www.shiyanlou.com/courses/2)
+
 # 三.数据库（Database）
 
 ## 数据库理论
