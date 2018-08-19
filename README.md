@@ -39,6 +39,7 @@
 #### Linux基础
 
 + [实验楼：Linux基础](https://www.shiyanlou.com/courses/1)
++ [Linux命令实例练习](https://www.shiyanlou.com/courses/68)
 + [《鸟哥的Linux私房菜》](https://book.douban.com/subject/4889838/)
 
 #### Linux shell
