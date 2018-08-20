@@ -45,7 +45,11 @@
 #### Linux shell
 
 + [实验楼：高级 bash 脚本编程指南](https://www.shiyanlou.com/courses/944)
+
++ [正则表达式基础](https://www.shiyanlou.com/courses/90)
+
 + [《Linux Shell脚本攻略》](https://book.douban.com/subject/6889456/)
+
 
 #### Vim
 
@@ -161,7 +165,6 @@
 
 + [全面解析Java注解](http://www.imooc.com/learn/456)
 
-  
 
 #### String、StringBuilder和StringBuffer
 
@@ -180,7 +183,6 @@
 
 + [面试官爱问的equals与hashCode](https://juejin.im/post/5a4379d4f265da432003874c)
 
-  
 
 #### Java IO
 
@@ -221,7 +223,6 @@
   + [基于堆实现的优先级队列：PriorityQueue 解决 Top K 问题](https://my.oschina.net/leejun2005/blog/135085)
   + [jdk源码分析PriorityQueue](http://zswlib.iteye.com/blog/2334463)]
 
-  
 
 #  六.Java并发（Concurrency）
 
@@ -367,6 +368,7 @@
 ## Spring Boot
 
 + [@SpringBootApplication(源码分析与启动流程)](http://tengj.top/2017/03/09/springboot3/)：推荐阅读《Spring Boot揭秘》第三章
++ [Spring Boot聚合工程](https://www.imooc.com/learn/933)
 
 ## Spring MVC
 
@@ -380,7 +382,6 @@
 
 + [SpringMVC面试题](https://www.w3cschool.cn/qgutf/)
 
-  
 
 ## MyBatis
 
@@ -413,6 +414,10 @@
 + [Quartz官方文档中文版](https://www.w3cschool.cn/quartz_doc/)
 + [Quartz Documentation](http://www.quartz-scheduler.org/documentation/)
 
+## Docker
+
++ [Docker入门教程](http://www.docker.org.cn/book/docker/what-is-docker-16.html)
++ [视频：Docker入门](https://www.imooc.com/learn/867)
 
 
 ## 杂
@@ -421,9 +426,6 @@
 
 + [美团技术团队：性能优化模式](http://tech.meituan.com/performance_tuning_pattern.html) 
 
-  
-
-  
 
 # 参考资料（Reference）：
 
