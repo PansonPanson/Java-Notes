@@ -372,6 +372,10 @@
 + [Spring Boot聚合工程](https://www.imooc.com/learn/933)
 + [Spring Boot热部署](https://www.imooc.com/learn/915)
 
+#### Thymeleaf
+
++ [Thymeleaf-Reference-Guide中文翻译](https://github.com/jack80342/Thymeleaf-Reference-Guide)
+
 ## Spring MVC
 
 + [知乎：servlet的本质是什么，它是如何工作的？](https://www.zhihu.com/question/21416727)
