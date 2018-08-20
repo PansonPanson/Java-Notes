@@ -370,6 +370,7 @@
 + [@SpringBootApplication(源码分析与启动流程)](http://tengj.top/2017/03/09/springboot3/)：推荐阅读《Spring Boot揭秘》第三章
 + [SpringBoot开发常用技术整合](https://www.imooc.com/learn/956)
 + [Spring Boot聚合工程](https://www.imooc.com/learn/933)
++ [Spring Boot热部署](https://www.imooc.com/learn/915)
 
 ## Spring MVC
 
