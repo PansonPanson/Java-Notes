@@ -388,8 +388,9 @@
 
 + [SpringMVC面试题](https://www.w3cschool.cn/qgutf/)
 
-
 ## MyBatis
+
++ [MyBatis Reference Documentation](http://www.mybatis.org/mybatis-3/index.html)    ===>  [中文文档](http://www.mybatis.org/mybatis-3/zh/index.html)
 
 + [美团技术团队：聊聊MyBatis缓存机制](https://tech.meituan.com/mybatis_cache.html)
 + [Mybatis常见面试题](https://www.w3cschool.cn/kzsow/)
