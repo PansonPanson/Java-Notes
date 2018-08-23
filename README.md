@@ -143,13 +143,9 @@
 + [知乎：如何优雅地处理异常？](https://www.zhihu.com/question/28254987)
 
 
-
-
 #### 序列化与反序列化
 
 + [美团技术团队：序列化和反序列化](https://tech.meituan.com/serialization_vs_deserialization.html)
-
-
 
 #### 反射
 
@@ -158,8 +154,6 @@
   + [深入解析Java反射（2） - invoke方法](https://www.sczyh30.com/posts/Java/java-reflection-2/)
   + [并发编程网：Java Reflection教程 ](http://ifeve.com/java-reflection/)
   + [反射——Java高级开发必须懂的](https://www.imooc.com/learn/199)
-
-
 
 #### 注解
 
@@ -172,8 +166,6 @@
 
 + [Java StringBuilder和StringBuffer源码分析](https://segmentfault.com/a/1190000004261063)
 + Stack Overflow： [String, StringBuffer, and StringBuilder](https://stackoverflow.com/questions/2971315/string-stringbuffer-and-stringbuilder)
-
-
 
 #### hashCode()和equals()
 
@@ -190,8 +182,6 @@
 + [文件传输基础——Java IO流](https://www.imooc.com/learn/123)
 + [Java NIO 系列教程](http://ifeve.com/java-nio-all/)
 + [以Java的视角来聊聊BIO、NIO与AIO的区别？](https://juejin.im/entry/598da7d16fb9a03c42431ed3)
-
-
 
 #### Java容器
 
@@ -222,6 +212,11 @@
   + [堆排序和 PriorityQueue 源码解析](https://zhuanlan.zhihu.com/p/25843530)
   + [基于堆实现的优先级队列：PriorityQueue 解决 Top K 问题](https://my.oschina.net/leejun2005/blog/135085)
   + [jdk源码分析PriorityQueue](http://zswlib.iteye.com/blog/2334463)]
+
+#### Java 8
+
++ [What's New in JDK 8](http://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html)
++ [IBM: Java 8 新特性概述](https://www.ibm.com/developerworks/cn/java/j-lo-jdk8newfeature/index.html)
 
 
 #  六.Java并发（Concurrency）
