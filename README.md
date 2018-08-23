@@ -217,6 +217,8 @@
 
 + [What's New in JDK 8](http://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html)
 + [IBM: Java 8 新特性概述](https://www.ibm.com/developerworks/cn/java/j-lo-jdk8newfeature/index.html)
++ [Java 8 特性 – 终极手册](http://www.importnew.com/19345.html)
++ [IBM:Java 8 中的 Streams API 详解](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/)
 
 
 #  六.Java并发（Concurrency）
