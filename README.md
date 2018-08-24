@@ -359,6 +359,7 @@
 #### 面试
 
 + [Spring常见面试题](https://www.w3cschool.cn/fisug/)
++ [知乎：@Autowired和@Resource的区别是什么？](https://www.zhihu.com/question/39356740)
 
 
 
