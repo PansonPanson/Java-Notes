@@ -136,6 +136,10 @@
 + [Java本地方法](https://blog.csdn.net/wi__wi/article/details/51085907)
 + [Java中的Switch对整型、字符型、字符串型的具体实现细节](http://www.hollischuang.com/archives/61)
 
+#### Java枚举
+
++ [深入理解Java枚举类型(enum)](https://blog.csdn.net/javazejian/article/details/71333103)
+
 #### Java异常
 
 + [Java 异常处理](http://www.runoob.com/java/java-exceptions.html)
