@@ -8,23 +8,17 @@
 
 + [计算机网络](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md#%E4%BA%94%E8%BF%90%E8%BE%93%E5%B1%82)
 
-
-
 #### TCP、UDP
 
 + [通俗大白话来理解TCP协议的三次握手和四次分手](https://github.com/jawil/blog/issues/14)
 + [TCP 为什么是三次握手，而不是两次或四次？](https://www.zhihu.com/question/24853633)
 + [理解 TCP 和 UDP](https://jerryc8080.gitbooks.io/understand-tcp-and-udp/)
 
-
-
 #### 集线器、交换机和路由器
 
 + [路由器和交换机的不同之处有哪些？](https://www.zhihu.com/question/20465477)
 + [如何跟小白解释路由器和交换机的区别？](https://www.zhihu.com/question/22007235)
 + [集线器和交换机的区别？](https://www.zhihu.com/question/21782368)
-
-
 
 #### 全双工、半双工和单工
 
@@ -53,7 +47,9 @@
 
 #### Vim
 
-+ [Vim编辑器基本使用](https://www.shiyanlou.com/courses/2)
++ [Vim编辑器基本使](https://www.shiyanlou.com/courses/2)
+
+
 
 # 三.数据库（Database）
 
@@ -102,6 +98,8 @@
 
 + [美团技术团队：缓存那些事](https://tech.meituan.com/cache_about.html)
 
+
+
 # 四.算法
 
 #### 排序算法
@@ -128,6 +126,12 @@
 
 + [红黑树](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/03.01.md)
 + [美团技术团队：红黑树深入剖析及Java实现](https://tech.meituan.com/redblack_tree.html)
+
+#### JDK里的排序算法
+
++ [Java提供的排序算法是怎么实现的？](https://blog.csdn.net/xlgen157387/article/details/79863301)
++ [排序算法在jdk源码中的应用](https://blog.csdn.net/java_student09/article/details/52235278)
++ [java.util.Arrays的排序研究](http://hxraid.iteye.com/blog/665095)
 
 # 五.Java基础（Basic）
 
