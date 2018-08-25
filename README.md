@@ -189,6 +189,8 @@
 
 #### Java容器
 
+*推荐阅读[《分布式Java应用 基础与实践》](https://book.douban.com/subject/4848587/)第四章*
+
 + [Java集合学习指南](http://wiki.jikexueyuan.com/project/java-collection/)
 
 + [java 集合类知识汇总](https://mp.weixin.qq.com/s/2P-wEvmig-M2Ehde1REGjQ)
