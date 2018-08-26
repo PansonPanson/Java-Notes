@@ -127,6 +127,10 @@
 + [红黑树](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/03.01.md)
 + [美团技术团队：红黑树深入剖析及Java实现](https://tech.meituan.com/redblack_tree.html)
 
+#### KMP
+
++ [为什么java String.contains 没有使用类似KMP字符串匹配算法进行优化？](https://www.zhihu.com/question/27852656)
+
 #### JDK里的排序算法
 
 + [Java提供的排序算法是怎么实现的？](https://blog.csdn.net/xlgen157387/article/details/79863301)
