@@ -443,6 +443,10 @@
 + [Docker入门教程](http://www.docker.org.cn/book/docker/what-is-docker-16.html)
 + [视频：Docker入门](https://www.imooc.com/learn/867)
 
+## RESTful 
+
++ [怎样用通俗的语言解释REST，以及RESTful？](https://www.zhihu.com/question/28557115)
+
 
 ## 杂
 
