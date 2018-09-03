@@ -377,7 +377,7 @@
 
 ## Spring Boot
 
-+ [@SpringBootApplication(源码分析与启动流程)](http://tengj.top/2017/03/09/springboot3/)：推荐阅读《Spring Boot揭秘》第三章
++ [@SpringBootApplication(源码分析与启动流程)](http://tengj.top/2017/03/09/springboot3/)  ==>>  推荐阅读《Spring Boot揭秘》第三章
 + [SpringBoot开发常用技术整合](https://www.imooc.com/learn/956)
 + [Spring Boot聚合工程](https://www.imooc.com/learn/933)
 + [Spring Boot热部署](https://www.imooc.com/learn/915)
@@ -394,6 +394,10 @@
 + redirect和forward
   + [知乎：web开发过程中redirect和forward有什么区别？](https://www.zhihu.com/question/38013677)
   + [请求转发（Forward）和重定向（Redirect）的区别](https://www.cnblogs.com/Qian123/p/5345527.html)
+
++ Cookie与Session  ==>>  推荐阅读《深入分析Java Web技术内幕》相应章节
+  + [知乎：Cookie和Session有什么区别？](https://www.zhihu.com/question/19786827)
+
 + [SpringMVC深度探险系列](http://www.iteye.com/blogs/subjects/springmvc-explore)
 + [SpringMVC面试题](https://www.w3cschool.cn/qgutf/)
 
@@ -414,6 +418,7 @@
 + [美团技术团队：分布式系统互斥性与幂等性问题的分析与解决](https://tech.meituan.com/distributed_system_mutually_exclusive_idempotence_cerberus_gtis.html)
 + CAP理论：
   + [论文：Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
+  + [CAP 定理的含义](http://www.ruanyifeng.com/blog/2018/07/cap.html)
 
 # 十一.搜索引擎
 
