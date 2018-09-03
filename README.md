@@ -39,9 +39,7 @@
 #### Linux shell
 
 + [实验楼：高级 bash 脚本编程指南](https://www.shiyanlou.com/courses/944)
-
 + [正则表达式基础](https://www.shiyanlou.com/courses/90)
-
 + [《Linux Shell脚本攻略》](https://book.douban.com/subject/6889456/)
 
 
@@ -105,7 +103,6 @@
 #### 排序算法
 
 + [常见排序算法及对应的时间复杂度和空间复杂度](http://www.ganecheng.tech/blog/52652705.html)
-
 + [常用的八种排序算法Java代码实现](https://www.jianshu.com/p/5e171281a387)
 + [图解排序算法(一)之3种简单排序(选择，冒泡，直接插入)](https://www.cnblogs.com/chengxiao/p/6103002.html)
 + [图解排序算法(二)之希尔排序](http://www.cnblogs.com/chengxiao/p/6104371.html) 
@@ -175,16 +172,13 @@
 #### String、StringBuilder和StringBuffer
 
 + [在java中String类为什么要设计成final？ - 知乎](https://www.zhihu.com/question/31345592)
-
 + [Java StringBuilder和StringBuffer源码分析](https://segmentfault.com/a/1190000004261063)
 + Stack Overflow： [String, StringBuffer, and StringBuilder](https://stackoverflow.com/questions/2971315/string-stringbuffer-and-stringbuilder)
 
 #### hashCode()和equals()
 
 + [Java hashCode() 和 equals()的若干问题解答](https://www.cnblogs.com/skywang12345/p/3324958.html) 
-
 + [Java提高篇——equals()与hashCode()方法详解](https://www.cnblogs.com/Qian123/p/5703507.html)
-
 + [面试官爱问的equals与hashCode](https://juejin.im/post/5a4379d4f265da432003874c)
 
 
@@ -198,17 +192,11 @@
 #### Java容器
 
 *推荐阅读[《分布式Java应用 基础与实践》](https://book.douban.com/subject/4848587/)第四章*
-
 + [Java集合学习指南](http://wiki.jikexueyuan.com/project/java-collection/)
-
 + [java 集合类知识汇总](https://mp.weixin.qq.com/s/2P-wEvmig-M2Ehde1REGjQ)
-
 + [Java 容器](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%AE%B9%E5%99%A8.md#arraylist)
-
 + [ArrayList vs. LinkedList vs. Vector](http://www.importnew.com/8782.html)
-
 + [ArrayList、LinkedList、Vector、HashSet、Treeset、HashMap、TreeMap的区别和适用场景](http://bs-yg.iteye.com/blog/2253605)
-
 + [Java Collections Framework - ArrayList](https://www.jianshu.com/p/4b7aa8a022ba)
 
 + **HashMap与ConcurrentHashMap**
@@ -245,16 +233,12 @@
 + [Java 并发](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%B9%B6%E5%8F%91.md)
 + [Java 并发知识合集](https://github.com/CL0610/Java-concurrency)
 
-
-
 #### 线程池
 
 + [深入分析java线程池的实现原理](https://www.jianshu.com/p/87bff5cc8d8c)
 + [线程池的工作原理与源码解读](https://www.cnblogs.com/qingquanzi/p/8146638.html)
 + [Java并发编程：线程池的使用](https://www.cnblogs.com/dolphin0520/p/3932921.html)
 + [聊聊并发（三）——JAVA线程池的分析和使用](http://www.infoq.com/cn/articles/java-threadPool)
-
-
 
 #### 阻塞队列
 
@@ -266,8 +250,6 @@
 + [【死磕Java并发】-----J.U.C之阻塞队列：SynchronousQueue](https://www.jianshu.com/p/9d2c706e45b7)
 + [【死磕Java并发】-----J.U.C之阻塞队列：LinkedTransferQueue](https://www.jianshu.com/p/bd708cb3ea91)
 
-
-
 #### synchronized和lock
 
 + [【死磕Java并发】-----深入分析synchronized的实现原理](https://www.jianshu.com/p/fe49b156b1a6)
@@ -275,28 +257,32 @@
 + [Lock与synchronized 的区别](http://houlinyan.iteye.com/blog/1112535)
 + [并发编程的锁机制：synchronized和lock](https://juejin.im/post/5a43ad786fb9a0450909cb5f)
 
-
-
 #### CAS
 
 + [面试必问的CAS，要多了解](https://www.jianshu.com/p/24ffe531e9ee)
 + [乐观锁的一种实现方式——CAS](http://www.hollischuang.com/archives/1537)
 + [【死磕Java并发】-----J.U.C之深入分析CAS](https://www.jianshu.com/p/61c90bd79d66)
 
-
-
 #### ThreadLocal
 
 + [深入浅出ThreadLocal](https://www.jianshu.com/p/33c5579ef44f)
 + [Java面试必问，ThreadLocal终极篇](https://www.jianshu.com/p/377bb840802f)
 + [【死磕Java并发】—–深入分析ThreadLocal](http://cmsblogs.com/?p=2442)
-+ 
 
 #### Java中的锁
 
 + [Java中的锁](http://www.importnew.com/19472.html)
 + [【死磕Java并发】-----J.U.C之重入锁：ReentrantLock](https://www.jianshu.com/p/508412a6ffdc)
 + [【死磕Java并发】-----J.U.C之读写锁：ReentrantReadWriteLock](https://www.jianshu.com/p/d47fe1ec1bb3)
+
+####  Java秒杀
+
++ [设计一个秒杀系统](https://github.com/crossoverJie/JCSprout/blob/master/MD/Spike.md)
++ [秒杀架构实践](https://crossoverjie.top/2018/05/07/ssm/SSM18-seconds-kill/)
++ [限流算法](https://github.com/crossoverJie/JCSprout/blob/master/MD/Limiting.md)
++ [知乎：秒杀系统设计](https://www.zhihu.com/question/54895548)
+
+
 
 
 # 七.Java虚拟机（JVM）
@@ -310,8 +296,6 @@
 
 + [JVM内存结构 VS Java内存模型 VS Java对象模型](https://blog.csdn.net/hollis_chuang/article/details/80839410)
 + [JVM内存的那些事](https://www.jianshu.com/p/eaef248b5a2c)
-
-
 
 #### 垃圾收集（GC)
 
@@ -344,8 +328,6 @@
 # 八.设计模式（Design Patterns）
 
 + [六大设计原则](http://wiki.jikexueyuan.com/project/java-design-pattern-principle/)
-
-
 
 
 
@@ -393,7 +375,7 @@
 + [Servlet生命周期与工作原理](https://www.cnblogs.com/cuiliang/archive/2011/10/21/2220671.html)
 + redirect和forward
   + [知乎：web开发过程中redirect和forward有什么区别？](https://www.zhihu.com/question/38013677)
-  + [请求转发（Forward）和重定向（Redirect）的区别](https://www.cnblogs.com/Qian123/p/5345527.html)
+  + [请求转发（Forward）和重定向（Redirect）的区别](https://www.cnblogs.com/Qian123/p/5345527.html) 
 
 + Cookie与Session  ==>>  推荐阅读《深入分析Java Web技术内幕》相应章节
   + [知乎：Cookie和Session有什么区别？](https://www.zhihu.com/question/19786827)
