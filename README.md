@@ -24,7 +24,9 @@
 
 + [串口通讯的单工、半双工和全双工的定义、区别及应用](https://blog.csdn.net/hai673580326/article/details/37819611)
 
+#### CDN  ==>>  推荐阅读《深入分析Java Web技术内幕 修订版》相应章节
 
++ [知乎：CDN是什么？使用CDN有什么优势？](https://www.zhihu.com/question/36514327?rf=37353035)
 
 # 二.操作系统（Operating System）
 
