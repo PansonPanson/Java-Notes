@@ -7,12 +7,19 @@
 #### 计算机网络总览
 
 + [计算机网络](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md#%E4%BA%94%E8%BF%90%E8%BE%93%E5%B1%82)
++ [HTTP](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)
 
 #### TCP、UDP
 
 + [通俗大白话来理解TCP协议的三次握手和四次分手](https://github.com/jawil/blog/issues/14)
 + [TCP 为什么是三次握手，而不是两次或四次？](https://www.zhihu.com/question/24853633)
 + [理解 TCP 和 UDP](https://jerryc8080.gitbooks.io/understand-tcp-and-udp/)
+
+#### HTTP
+
++ HTTP 请求方法
+  + MDN: [HTTP 请求方法](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Methods)
+  + w3school: [HTTP 方法: GET 对比 POST](http://www.w3school.com.cn/tags/html_ref_httpmethods.asp)
 
 #### 集线器、交换机和路由器
 
@@ -27,6 +34,10 @@
 #### CDN  ==>>  推荐阅读《深入分析Java Web技术内幕 修订版》相应章节
 
 + [知乎：CDN是什么？使用CDN有什么优势？](https://www.zhihu.com/question/36514327?rf=37353035)
+
+#### Cookie与Session  ==>>  推荐阅读《深入分析Java Web技术内幕》相应章节
+
++ [知乎：Cookie和Session有什么区别？](https://www.zhihu.com/question/19786827)
 
 # 二.操作系统（Operating System）
 
@@ -378,9 +389,6 @@
 + redirect和forward
   + [知乎：web开发过程中redirect和forward有什么区别？](https://www.zhihu.com/question/38013677)
   + [请求转发（Forward）和重定向（Redirect）的区别](https://www.cnblogs.com/Qian123/p/5345527.html) 
-
-+ Cookie与Session  ==>>  推荐阅读《深入分析Java Web技术内幕》相应章节
-  + [知乎：Cookie和Session有什么区别？](https://www.zhihu.com/question/19786827)
 
 + [SpringMVC深度探险系列](http://www.iteye.com/blogs/subjects/springmvc-explore)
 + [SpringMVC面试题](https://www.w3cschool.cn/qgutf/)
