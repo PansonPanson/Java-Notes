@@ -15,6 +15,10 @@
 + [TCP 为什么是三次握手，而不是两次或四次？](https://www.zhihu.com/question/24853633)
 + [理解 TCP 和 UDP](https://jerryc8080.gitbooks.io/understand-tcp-and-udp/)
 
+#### 计算机网络体系结构
+
++ [OSI七层协议模型、TCP/IP四层模型和五层协议体系结构之间的关系](https://www.cnblogs.com/wxd0108/p/7597216.html)
+
 #### HTTP
 
 + HTTP 请求方法
@@ -210,9 +214,7 @@
 + [Java NIO 系列教程](http://ifeve.com/java-nio-all/)
 + [以Java的视角来聊聊BIO、NIO与AIO的区别？](https://juejin.im/entry/598da7d16fb9a03c42431ed3)
 
-#### Java容器
-
-*推荐阅读[《分布式Java应用 基础与实践》](https://book.douban.com/subject/4848587/)第四章*
+#### Java容器  ==>>  推荐阅读[《分布式Java应用 基础与实践》](https://book.douban.com/subject/4848587/)第四章
 
 + [Java集合学习指南](http://wiki.jikexueyuan.com/project/java-collection/)
 + [java 集合类知识汇总](https://mp.weixin.qq.com/s/2P-wEvmig-M2Ehde1REGjQ)
@@ -220,7 +222,6 @@
 + [ArrayList vs. LinkedList vs. Vector](http://www.importnew.com/8782.html)
 + [ArrayList、LinkedList、Vector、HashSet、Treeset、HashMap、TreeMap的区别和适用场景](http://bs-yg.iteye.com/blog/2253605)
 + [Java Collections Framework - ArrayList](https://www.jianshu.com/p/4b7aa8a022ba)
-
 + **HashMap与ConcurrentHashMap**
 
   + [占小狼：深入浅出ConcurrentHashMap1.8](https://www.jianshu.com/p/c0642afe03e0)
@@ -229,7 +230,6 @@
   + [占小狼：老生常谈，HashMap的死循环](https://www.jianshu.com/p/1e9cf0ac07f4)
   + [HashMap与ConcurrentHashMap在JDK1.7和JDK1.8中的实现](https://crossoverjie.top/2018/07/23/java-senior/ConcurrentHashMap/)
   + [美团技术团队：Java 8系列之重新认识HashMap](https://tech.meituan.com/java_hashmap.html)
-
 + **优先级队列**
   + [PriorityQueue](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/8-PriorityQueue.md)
   + [优先级队列是一种什么样的数据结构](http://www.importnew.com/6510.html)
@@ -398,7 +398,6 @@
 + redirect和forward
   + [知乎：web开发过程中redirect和forward有什么区别？](https://www.zhihu.com/question/38013677)
   + [请求转发（Forward）和重定向（Redirect）的区别](https://www.cnblogs.com/Qian123/p/5345527.html) 
-
 + [SpringMVC深度探险系列](http://www.iteye.com/blogs/subjects/springmvc-explore)
 + [SpringMVC面试题](https://www.w3cschool.cn/qgutf/)
 
