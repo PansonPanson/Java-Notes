@@ -31,6 +31,9 @@
   + [MDN: HTTP的发展](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
   + [[译] HTTP 的进化 - 0.9、1.0、1.1、Keep-Alive、Upgrade 和 HTTPS](https://juejin.im/post/5aefc2a3f265da0b8c24e0c5)
   + [阮一峰：HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)
++ Identifying resources on the Web
+  + URI、URL、URN 的联系和区别](https://waylau.com/difference-of-uri-url-urn/)
+  + [Identifying resources on the Web](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
 + 浏览器发送一次网址请求的过程
   + [小白科普：从输入网址到最后浏览器呈现页面内容，中间发生了什么？](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665514196&idx=1&sn=ca26d258fcc4a35fc6d9a539b7d71dd7&chksm=80d67c97b7a1f58198b2e6ae436f73c677c0df4c05c2a8a4aad2b9e2d523da57dd5cd3d0a8ee&scene=21#wechat_redirect)
   + [知乎：当你在浏览器中输入 baidu.com 并且按下回车后发生了什么？](https://zhuanlan.zhihu.com/p/28262282)  
@@ -227,7 +230,6 @@
 + [ArrayList、LinkedList、Vector、HashSet、Treeset、HashMap、TreeMap的区别和适用场景](http://bs-yg.iteye.com/blog/2253605)
 + [Java Collections Framework - ArrayList](https://www.jianshu.com/p/4b7aa8a022ba)
 + **HashMap与ConcurrentHashMap**
-
   + [占小狼：深入浅出ConcurrentHashMap1.8](https://www.jianshu.com/p/c0642afe03e0)
   + [占小狼：谈谈ConcurrentHashMap1.7和1.8的不同实现](https://www.jianshu.com/p/e694f1e868ec)
   + [占小狼：ConcurrentHashMap的红黑树实现分析](https://www.jianshu.com/p/23b84ba9a498)
@@ -247,7 +249,6 @@
 + [IBM: Java 8 新特性概述](https://www.ibm.com/developerworks/cn/java/j-lo-jdk8newfeature/index.html)
 + [Java 8 特性 – 终极手册](http://www.importnew.com/19345.html)
 + [IBM:Java 8 中的 Streams API 详解](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/)
-
 
 #  六.Java并发（Concurrency）
 
