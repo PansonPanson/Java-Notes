@@ -31,8 +31,9 @@
   + [MDN: HTTP的发展](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
   + [[译] HTTP 的进化 - 0.9、1.0、1.1、Keep-Alive、Upgrade 和 HTTPS](https://juejin.im/post/5aefc2a3f265da0b8c24e0c5)
   + [阮一峰：HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)
++ [HTTP/1.x 的连接管理](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
 + Identifying resources on the Web
-  + URI、URL、URN 的联系和区别](https://waylau.com/difference-of-uri-url-urn/)
+  + [URI、URL、URN 的联系和区别](https://waylau.com/difference-of-uri-url-urn/)
   + [Identifying resources on the Web](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
 + 浏览器发送一次网址请求的过程
   + [小白科普：从输入网址到最后浏览器呈现页面内容，中间发生了什么？](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665514196&idx=1&sn=ca26d258fcc4a35fc6d9a539b7d71dd7&chksm=80d67c97b7a1f58198b2e6ae436f73c677c0df4c05c2a8a4aad2b9e2d523da57dd5cd3d0a8ee&scene=21#wechat_redirect)
