@@ -39,7 +39,8 @@
   + [小白科普：从输入网址到最后浏览器呈现页面内容，中间发生了什么？](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665514196&idx=1&sn=ca26d258fcc4a35fc6d9a539b7d71dd7&chksm=80d67c97b7a1f58198b2e6ae436f73c677c0df4c05c2a8a4aad2b9e2d523da57dd5cd3d0a8ee&scene=21#wechat_redirect)
   + [知乎：当你在浏览器中输入 baidu.com 并且按下回车后发生了什么？](https://zhuanlan.zhihu.com/p/28262282)  
   + [An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
-+ 
++ 代理
+  + [图解正向代理、反向代理、透明代理](http://blog.51cto.com/z00w00/1031287)
 
 #### 集线器、交换机和路由器
 
