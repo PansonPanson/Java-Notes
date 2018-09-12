@@ -42,6 +42,12 @@
 + 代理
   + [图解正向代理、反向代理、透明代理](http://blog.51cto.com/z00w00/1031287)
 
+#### SSH
+
++ [SSH协议详解](http://airekans.github.io/protocol/2012/06/28/ssh-explained)
++ [SSH 原理与运用（一）：远程登录](http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html)
++ [SSH原理与运用（二）：远程操作与端口转发](http://www.ruanyifeng.com/blog/2011/12/ssh_port_forwarding.html)
+
 #### 集线器、交换机和路由器
 
 + [路由器和交换机的不同之处有哪些？](https://www.zhihu.com/question/20465477)
@@ -167,6 +173,11 @@
 + [Java提供的排序算法是怎么实现的？](https://blog.csdn.net/xlgen157387/article/details/79863301)
 + [排序算法在jdk源码中的应用](https://blog.csdn.net/java_student09/article/details/52235278)
 + [java.util.Arrays的排序研究](http://hxraid.iteye.com/blog/665095)
+
+#### Huffman 编码
+
++ [霍夫曼编码](https://zh.wikipedia.org/wiki/%E9%9C%8D%E5%A4%AB%E6%9B%BC%E7%BC%96%E7%A0%81)
++ [HUFFMAN 编码压缩算法](https://coolshell.cn/articles/7459.html)
 
 # 五.Java基础（Basic）
 
