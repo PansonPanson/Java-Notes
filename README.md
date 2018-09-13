@@ -31,6 +31,9 @@
   + [MDN: HTTP 缓存 FAQ](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Caching_FAQ)
   + [google developers: HTTP 缓存](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn)
   + [MDN: Cache-Control](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers)  ==>> [英文](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
++ HTTP内容协商
+  + [MDN: 内容协商](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Content_negotiation)  ==>> [英文: Content negotiation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation)
+  + [谈谈 HTTP/2 的协议协商机制](https://imququ.com/post/protocol-negotiation-in-http2.html)
 + HTTP的发展：0.9/1.0/1.1/2.0
   + [MDN: HTTP的发展](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
   + [[译] HTTP 的进化 - 0.9、1.0、1.1、Keep-Alive、Upgrade 和 HTTPS](https://juejin.im/post/5aefc2a3f265da0b8c24e0c5)
