@@ -27,6 +27,10 @@
 + HTTP 状态码
   + [w3school: HTTP 状态消息](http://www.w3school.com.cn/tags/html_ref_httpmessages.asp)
   + [MDN: HTTP response codes](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/HTTP_response_codes)
++ HTTP 缓存 
+  + [MDN: HTTP 缓存 FAQ](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Caching_FAQ)
+  + [google developers: HTTP 缓存](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn)
+  + [MDN: Cache-Control](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers)  ==>> [英文](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 + HTTP的发展：0.9/1.0/1.1/2.0
   + [MDN: HTTP的发展](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
   + [[译] HTTP 的进化 - 0.9、1.0、1.1、Keep-Alive、Upgrade 和 HTTPS](https://juejin.im/post/5aefc2a3f265da0b8c24e0c5)
