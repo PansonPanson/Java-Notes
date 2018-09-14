@@ -36,6 +36,7 @@
   + [谈谈 HTTP/2 的协议协商机制](https://imququ.com/post/protocol-negotiation-in-http2.html)
 + **HTTP内容安全策略( CSP )**
   + [内容安全策略( CSP )](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/CSP)   ==>> [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+  + [阮一峰：Content Security Policy 入门教程](http://www.ruanyifeng.com/blog/2016/09/csp.html)
 + **HTTP的发展：0.9/1.0/1.1/2.0**
   + [MDN: HTTP的发展](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
   + [[译] HTTP 的进化 - 0.9、1.0、1.1、Keep-Alive、Upgrade 和 HTTPS](https://juejin.im/post/5aefc2a3f265da0b8c24e0c5)
@@ -265,7 +266,7 @@
   + [基于堆实现的优先级队列：PriorityQueue 解决 Top K 问题](https://my.oschina.net/leejun2005/blog/135085)
   + [jdk源码分析PriorityQueue](http://zswlib.iteye.com/blog/2334463)]
 
-#### Java 8
+#### Java 8 ==>> 推荐阅读《Java 8实战》与《Java 8函数式编程》
 
 + [What's New in JDK 8](http://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html)
 + [IBM: Java 8 新特性概述](https://www.ibm.com/developerworks/cn/java/j-lo-jdk8newfeature/index.html)
@@ -438,16 +439,20 @@
 
 ## Spring Cloud
 
+# 十 Web Server
+
+## Nginx
 
 
-# 十.分布式
+
+# 十一.分布式
 
 + [美团技术团队：分布式系统互斥性与幂等性问题的分析与解决](https://tech.meituan.com/distributed_system_mutually_exclusive_idempotence_cerberus_gtis.html)
 + **CAP理论：**
   + [论文：Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
   + [CAP 定理的含义](http://www.ruanyifeng.com/blog/2018/07/cap.html)
 
-# 十一.搜索引擎
+# 十二.搜索引擎
 
 ## Elasticsearch
 
@@ -510,17 +515,19 @@
 
 [《程序员代码面试指南：IT名企算法与数据结构题目最优解》](https://book.douban.com/subject/26638586/)
 
+[《Java核心技术 卷Ⅰ》](https://book.douban.com/subject/26880667/)
+
 [《Java编程思想》](https://book.douban.com/subject/2130190/)
+
+[《Java 8函数式编程》](https://book.douban.com/subject/26346017/)
+
+[《Java 8实战》](https://book.douban.com/subject/26772632/)
 
 [《阿里巴巴Java开发规范》](https://book.douban.com/subject/27605355/)
 
 [《鸟哥的Linux私房菜》](https://book.douban.com/subject/4889838/)
 
 [《大型网站技术架构 核心原理与案例分析》](https://book.douban.com/subject/25723064/)
-
-[《Java多线程编程核心技术》](https://book.douban.com/subject/26555197/)
-
-[《Java核心技术 卷Ⅰ》](https://book.douban.com/subject/26880667/)
 
 [《Maven实战》](https://book.douban.com/subject/5345682/)
 
