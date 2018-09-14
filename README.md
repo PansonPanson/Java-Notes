@@ -21,32 +21,34 @@
 
 #### HTTP
 
-+ HTTP 请求方法
-  + MDN: [HTTP 请求方法](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Methods)
-  + w3school: [HTTP 方法: GET 对比 POST](http://www.w3school.com.cn/tags/html_ref_httpmethods.asp)
-+ HTTP 状态码
++ **HTTP 请求方法**
+  + [MDN: HTTP 请求方法](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Methods)
+  + [w3school    HTTP 方法: GET 对比 POST](http://www.w3school.com.cn/tags/html_ref_httpmethods.asp)
++ **HTTP 状态码**
   + [w3school: HTTP 状态消息](http://www.w3school.com.cn/tags/html_ref_httpmessages.asp)
   + [MDN: HTTP response codes](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/HTTP_response_codes)
-+ HTTP 缓存 
++ **HTTP 缓存** 
   + [MDN: HTTP 缓存 FAQ](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Caching_FAQ)
   + [google developers: HTTP 缓存](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn)
   + [MDN: Cache-Control](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers)  ==>> [英文](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-+ HTTP内容协商
++ **HTTP内容协商**
   + [MDN: 内容协商](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Content_negotiation)  ==>> [英文: Content negotiation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation)
   + [谈谈 HTTP/2 的协议协商机制](https://imququ.com/post/protocol-negotiation-in-http2.html)
-+ HTTP的发展：0.9/1.0/1.1/2.0
++ **HTTP内容安全策略( CSP )**
+  + [内容安全策略( CSP )](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/CSP)   ==>> [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
++ **HTTP的发展：0.9/1.0/1.1/2.0**
   + [MDN: HTTP的发展](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
   + [[译] HTTP 的进化 - 0.9、1.0、1.1、Keep-Alive、Upgrade 和 HTTPS](https://juejin.im/post/5aefc2a3f265da0b8c24e0c5)
   + [阮一峰：HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)
 + [HTTP/1.x 的连接管理](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
-+ Identifying resources on the Web
++ **Identifying resources on the Web**
   + [URI、URL、URN 的联系和区别](https://waylau.com/difference-of-uri-url-urn/)
   + [Identifying resources on the Web](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
-+ 浏览器发送一次网址请求的过程
++ **浏览器发送一次网址请求的过程**
   + [小白科普：从输入网址到最后浏览器呈现页面内容，中间发生了什么？](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665514196&idx=1&sn=ca26d258fcc4a35fc6d9a539b7d71dd7&chksm=80d67c97b7a1f58198b2e6ae436f73c677c0df4c05c2a8a4aad2b9e2d523da57dd5cd3d0a8ee&scene=21#wechat_redirect)
   + [知乎：当你在浏览器中输入 baidu.com 并且按下回车后发生了什么？](https://zhuanlan.zhihu.com/p/28262282)  
   + [An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
-+ 代理
++ **代理**
   + [图解正向代理、反向代理、透明代理](http://blog.51cto.com/z00w00/1031287)
 
 #### SSH
@@ -395,7 +397,7 @@
 #### AOP
 
 + [Spring AOP 实现原理与 CGLIB 应用](https://www.ibm.com/developerworks/cn/java/j-lo-springaopcglib/index.html)
-+ 动态代理
++ **动态代理**
   + [JDK动态代理代理与Cglib代理原理探究 ](http://ifeve.com/jdk%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%E4%BB%A3%E7%90%86%E4%B8%8Ecglib%E4%BB%A3%E7%90%86%E5%8E%9F%E7%90%86%E6%8E%A2%E7%A9%B6/)
   + [Java Proxy 和 CGLIB 动态代理原理](http://www.importnew.com/27772.html)
 
@@ -420,7 +422,7 @@
 + [知乎：servlet的本质是什么，它是如何工作的？](https://www.zhihu.com/question/21416727)
 + [许令波：Servlet 工作原理解析](https://www.ibm.com/developerworks/cn/java/j-lo-servlet/index.html)
 + [Servlet生命周期与工作原理](https://www.cnblogs.com/cuiliang/archive/2011/10/21/2220671.html)
-+ redirect和forward
++ **redirect和forward**
   + [知乎：web开发过程中redirect和forward有什么区别？](https://www.zhihu.com/question/38013677)
   + [请求转发（Forward）和重定向（Redirect）的区别](https://www.cnblogs.com/Qian123/p/5345527.html) 
 + [SpringMVC深度探险系列](http://www.iteye.com/blogs/subjects/springmvc-explore)
@@ -441,7 +443,7 @@
 # 十.分布式
 
 + [美团技术团队：分布式系统互斥性与幂等性问题的分析与解决](https://tech.meituan.com/distributed_system_mutually_exclusive_idempotence_cerberus_gtis.html)
-+ CAP理论：
++ **CAP理论：**
   + [论文：Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
   + [CAP 定理的含义](http://www.ruanyifeng.com/blog/2018/07/cap.html)
 
