@@ -148,7 +148,7 @@
 
 
 
-# 四.算法
+# 四.算法(Algorithm)
 
 #### 排序算法
 
@@ -177,6 +177,13 @@
 #### KMP
 
 + [为什么java String.contains 没有使用类似KMP字符串匹配算法进行优化？](https://www.zhihu.com/question/27852656)
+
+#### 布隆过滤器(Bloom Filter)
+
++ [吴军：数学之美系列二十一 － 布隆过滤器（Bloom Filter）](https://china.googleblog.com/2007/07/bloom-filter_7469.html)
++ [使用BloomFilter布隆过滤器解决缓存击穿、垃圾邮件识别、集合判重](https://blog.csdn.net/tianyaleixiaowu/article/details/74721877)
+
++ [[布隆过滤器(Bloom Filter)的原理和实现](https://www.cnblogs.com/cpselvis/p/6265825.html)]
 
 #### JDK里的排序算法
 
