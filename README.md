@@ -86,11 +86,12 @@
 
 ## Linux
 
-#### Linux基础
+#### Linux基础  ==>> 推荐阅读《鸟哥的Linux私房菜》
 
 + [实验楼：Linux基础](https://www.shiyanlou.com/courses/1)
 + [Linux命令实例练习](https://www.shiyanlou.com/courses/68)
-+ [《鸟哥的Linux私房菜》](https://book.douban.com/subject/4889838/)
++ [《鸟哥的Linux私房菜在线阅读》](http://linux.vbird.org/linux_basic/)
++ [Linux 命令大全](http://www.runoob.com/linux/linux-command-manual.html)
 
 #### Linux shell
 
@@ -101,9 +102,9 @@
 
 #### Vim
 
-+ [Vim编辑器基本使](https://www.shiyanlou.com/courses/2)
++ [Vim编辑器基本使用](https://www.shiyanlou.com/courses/2)
 
-
+#### Linux内核
 
 # 三.数据库（Database）
 
