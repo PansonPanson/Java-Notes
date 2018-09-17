@@ -421,10 +421,14 @@
   + [JDK动态代理代理与Cglib代理原理探究 ](http://ifeve.com/jdk%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%E4%BB%A3%E7%90%86%E4%B8%8Ecglib%E4%BB%A3%E7%90%86%E5%8E%9F%E7%90%86%E6%8E%A2%E7%A9%B6/)
   + [Java Proxy 和 CGLIB 动态代理原理](http://www.importnew.com/27772.html)
 
-#### 面试
+#### 常用知识点
 
 + [Spring常见面试题](https://www.w3cschool.cn/fisug/)
 + [知乎：@Autowired和@Resource的区别是什么？](https://www.zhihu.com/question/39356740)
++ **RestTemplate类**
+  + [Spring Doc: Class RestTemplate](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.html)
+  + [A Guide to the RestTemplate | Baeldung](https://www.baeldung.com/rest-template)
+  + [Spring RestTemplate 中几种常见的请求方式](https://blog.csdn.net/u012702547/article/details/77917939)
 
 ## Spring Boot
 
