@@ -103,6 +103,7 @@
 #### Vim
 
 + [Vim编辑器基本使用](https://www.shiyanlou.com/courses/2)
++ [陈皓：简明 VIM 练级攻略](https://coolshell.cn/articles/5426.html)
 
 #### Linux内核
 
