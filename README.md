@@ -217,6 +217,11 @@
 + [霍夫曼编码](https://zh.wikipedia.org/wiki/%E9%9C%8D%E5%A4%AB%E6%9B%BC%E7%BC%96%E7%A0%81)
 + [HUFFMAN 编码压缩算法](https://coolshell.cn/articles/7459.html)
 
+#### 并查集
+
++ [并查集(Union-Find)算法介绍](https://blog.csdn.net/dm_vincent/article/details/7655764)
++ [维基百科：并查集](https://zh.wikipedia.org/wiki/%E5%B9%B6%E6%9F%A5%E9%9B%86)
+
 # 五.Java基础（Basic）
 
 + [Java基础](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%9F%BA%E7%A1%80.md)
