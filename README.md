@@ -1,3 +1,5 @@
+![](https://img1.doubanio.com/view/photo/large/public/p1816568308.webp "千与千寻剧照" )
+
 ## 阅读需知：
 
 + **推荐使用[chrome插件:简悦](http://ksria.com/simpread/)来阅读。**
@@ -505,6 +507,7 @@
 ## IDEA
 
 + [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
++ [IntelliJ IDEA神器使用技巧](https://www.imooc.com/learn/924)
 
 ## Swagger
 
