@@ -1,3 +1,5 @@
+
+
 ![](https://img1.doubanio.com/view/photo/large/public/p1816568308.webp "千与千寻剧照" )
 
 ## 阅读需知：
@@ -319,6 +321,11 @@
 + [Java 并发](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%B9%B6%E5%8F%91.md)
 + [Java 并发知识合集](https://github.com/CL0610/Java-concurrency)
 
+#### Java并发工具类之LongAdder
+
++ [Java并发工具类之LongAdder原理总结](https://github.com/aCoder2013/blog/issues/22)
++ [Java8 Striped64 和 LongAdder](http://ifeve.com/java8-striped64-and-longadder/)
+
 #### 线程池
 
 + [深入分析java线程池的实现原理](https://www.jianshu.com/p/87bff5cc8d8c)
@@ -463,13 +470,27 @@
 
 ## Spring MVC
 
++ [SpringMVC深度探险系列](http://www.iteye.com/blogs/subjects/springmvc-explore)
+
+#### **Servlet**
+
 + [知乎：servlet的本质是什么，它是如何工作的？](https://www.zhihu.com/question/21416727)
 + [许令波：Servlet 工作原理解析](https://www.ibm.com/developerworks/cn/java/j-lo-servlet/index.html)
 + [Servlet生命周期与工作原理](https://www.cnblogs.com/cuiliang/archive/2011/10/21/2220671.html)
-+ **redirect和forward**
-  + [知乎：web开发过程中redirect和forward有什么区别？](https://www.zhihu.com/question/38013677)
-  + [请求转发（Forward）和重定向（Redirect）的区别](https://www.cnblogs.com/Qian123/p/5345527.html) 
-+ [SpringMVC深度探险系列](http://www.iteye.com/blogs/subjects/springmvc-explore)
+
+#### **redirect和forward**
+
++ [知乎：web开发过程中redirect和forward有什么区别？](https://www.zhihu.com/question/38013677)
++ [请求转发（Forward）和重定向（Redirect）的区别](https://www.cnblogs.com/Qian123/p/5345527.html) 
+
+#### Spring MVC常用注解
+
++ [springmvc常用注解标签详解](https://www.cnblogs.com/leskang/p/5445698.html)
+
++ [Spring MVC 的常用注解](https://blog.csdn.net/qian_ch/article/details/73826663)
+
+#### 面试相关
+
 + [SpringMVC面试题](https://www.w3cschool.cn/qgutf/)
 
 ## MyBatis
@@ -513,6 +534,11 @@
 ## Postman
 
 + [Postman系列教程](https://www.jellythink.com/archives/category/tool-tutorials/postman)
+
+#### 压力测试
+
++ Apache bench
++ JMeter
 
 ## Swagger
 
