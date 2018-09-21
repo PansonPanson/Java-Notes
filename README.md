@@ -510,9 +510,11 @@
 + [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 + [IntelliJ IDEA神器使用技巧](https://www.imooc.com/learn/924)
 
+## Postman
+
++ [Postman系列教程](https://www.jellythink.com/archives/category/tool-tutorials/postman)
+
 ## Swagger
-
-
 
 ## Git
 
@@ -534,7 +536,6 @@
 ## RESTful 
 
 + [怎样用通俗的语言解释REST，以及RESTful？](https://www.zhihu.com/question/28557115)
-
 
 ## 杂
 
