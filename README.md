@@ -311,6 +311,11 @@
 + [Java 8 特性 – 终极手册](http://www.importnew.com/19345.html)
 + [IBM:Java 8 中的 Streams API 详解](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/)
 
+#### 值得思考的问题：
+
++ [Java 8接口上的default method设计目的是什么？](
+  https://www.zhihu.com/question/41166418/answer/139494009)
+
 #  六.Java并发（Concurrency）
 
 #### 并发合集
