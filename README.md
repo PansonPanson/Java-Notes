@@ -257,6 +257,7 @@
 #### 注解
 
 + [全面解析Java注解](http://www.imooc.com/learn/456)
++ [并发编程网：Java注解教程及自定义注解](http://ifeve.com/java-annotations/)
 
 
 #### String、StringBuilder和StringBuffer
