@@ -465,9 +465,13 @@
 ## Spring Boot
 
 + [@SpringBootApplication(源码分析与启动流程)](http://tengj.top/2017/03/09/springboot3/)  ==>>  推荐阅读《Spring Boot揭秘》第三章
-+ [SpringBoot开发常用技术整合](https://www.imooc.com/learn/956)
-+ [Spring Boot聚合工程](https://www.imooc.com/learn/933)
-+ [Spring Boot热部署](https://www.imooc.com/learn/915)
+
++ **参考视频教程**
+  + [SpringBoot开发常用技术整合](https://www.imooc.com/learn/956)
+  + [Spring Boot聚合工程](https://www.imooc.com/learn/933)
+  + [Spring Boot热部署](https://www.imooc.com/learn/915)
++ **参考文档以及开原作品索引**
+  + [Spring Boot 中文索引](http://springboot.fun/)
 
 #### Thymeleaf
 
@@ -507,6 +511,9 @@
 + MyBatis中的#与$的区别
 
 ## Spring Cloud
+
++ **参考文档以及开源作品索引**
+  + [Spring Cloud 中文索引](http://springcloud.fun/)
 
 # 十 Web Server
 
