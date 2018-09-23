@@ -527,6 +527,9 @@
 + **CAP理论：**
   + [论文：Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
   + [CAP 定理的含义](http://www.ruanyifeng.com/blog/2018/07/cap.html)
++ **分布式事务**
+  + [事务相关基础知识](http://www.hollischuang.com/archives/tag/%E4%BA%8B%E5%8A%A1)
+  + [IBM developerWorks : JTA 深度历险 - 原理与实现](https://www.ibm.com/developerworks/cn/java/j-lo-jta/index.html)
 
 # 十二.搜索引擎
 
