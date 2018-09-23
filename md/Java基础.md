@@ -15,23 +15,22 @@
 + [Java 中的异常和处理详解](http://www.importnew.com/26613.html)
 + [知乎：如何优雅地处理异常？](https://www.zhihu.com/question/28254987)
 
-
 #### 序列化与反序列化
 
 + [美团技术团队：序列化和反序列化](https://tech.meituan.com/serialization_vs_deserialization.html)
 
 #### 反射
 
-  + [知乎：学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
-  + [深入解析Java反射（1） - 基础](https://www.sczyh30.com/posts/Java/java-reflection-1/#)
-  + [深入解析Java反射（2） - invoke方法](https://www.sczyh30.com/posts/Java/java-reflection-2/)
-  + [并发编程网：Java Reflection教程 ](http://ifeve.com/java-reflection/)
-  + [反射——Java高级开发必须懂的](https://www.imooc.com/learn/199)
++ [知乎：学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
++ [深入解析Java反射（1） - 基础](https://www.sczyh30.com/posts/Java/java-reflection-1/#)
++ [深入解析Java反射（2） - invoke方法](https://www.sczyh30.com/posts/Java/java-reflection-2/)
++ [并发编程网：Java Reflection教程 ](http://ifeve.com/java-reflection/)
++ [反射——Java高级开发必须懂的](https://www.imooc.com/learn/199)
 
 #### 注解
 
 + [全面解析Java注解](http://www.imooc.com/learn/456)
-
++ [并发编程网：Java注解教程及自定义注解](http://ifeve.com/java-annotations/)
 
 #### String、StringBuilder和StringBuffer
 
@@ -44,7 +43,6 @@
 + [Java hashCode() 和 equals()的若干问题解答](https://www.cnblogs.com/skywang12345/p/3324958.html) 
 + [Java提高篇——equals()与hashCode()方法详解](https://www.cnblogs.com/Qian123/p/5703507.html)
 + [面试官爱问的equals与hashCode](https://juejin.im/post/5a4379d4f265da432003874c)
-
 
 #### Java IO
 
@@ -81,3 +79,7 @@
 + [IBM: Java 8 新特性概述](https://www.ibm.com/developerworks/cn/java/j-lo-jdk8newfeature/index.html)
 + [Java 8 特性 – 终极手册](http://www.importnew.com/19345.html)
 + [IBM:Java 8 中的 Streams API 详解](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/)
+
+#### 值得思考的问题：
+
++ [Java 8接口上的default method设计目的是什么？](https://www.zhihu.com/question/41166418/answer/139494009)

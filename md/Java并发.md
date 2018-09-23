@@ -1,4 +1,4 @@
-#  六.Java并发（Concurrency）
+# 六.Java并发（Concurrency）
 
 #### 并发合集
 
@@ -7,6 +7,11 @@
 + [死磕Java并发](https://www.jianshu.com/nb/12860760)
 + [Java 并发](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%B9%B6%E5%8F%91.md)
 + [Java 并发知识合集](https://github.com/CL0610/Java-concurrency)
+
+#### Java并发工具类之LongAdder
+
++ [Java并发工具类之LongAdder原理总结](https://github.com/aCoder2013/blog/issues/22)
++ [Java8 Striped64 和 LongAdder](http://ifeve.com/java8-striped64-and-longadder/)
 
 #### 线程池
 
@@ -50,7 +55,7 @@
 + [【死磕Java并发】-----J.U.C之重入锁：ReentrantLock](https://www.jianshu.com/p/508412a6ffdc)
 + [【死磕Java并发】-----J.U.C之读写锁：ReentrantReadWriteLock](https://www.jianshu.com/p/d47fe1ec1bb3)
 
-####  Java秒杀
+#### Java秒杀
 
 + [设计一个秒杀系统](https://github.com/crossoverJie/JCSprout/blob/master/MD/Spike.md)
 + [秒杀架构实践](https://crossoverjie.top/2018/05/07/ssm/SSM18-seconds-kill/)
