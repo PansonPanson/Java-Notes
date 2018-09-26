@@ -465,6 +465,9 @@
   + [Spring Doc: Class RestTemplate](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.html)
   + [A Guide to the RestTemplate | Baeldung](https://www.baeldung.com/rest-template)
   + [Spring RestTemplate 中几种常见的请求方式](https://blog.csdn.net/u012702547/article/details/77917939)
++ **EntityManager**
+  + [EntityManager相关核心概念](https://blog.csdn.net/dm_vincent/article/details/52615532)
+  + [EntityManager相关](https://blog.csdn.net/u010837612/article/details/47666131)
 
 ## Spring Boot
 
