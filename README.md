@@ -21,6 +21,13 @@
 
 # 一.计算机网络（Computer Networking）
 
+#### 推荐书籍（推荐按顺序阅读）：
+
++ [《图解HTTP》](https://book.douban.com/subject/25863515/)
++ [《图解TCP/IP》](https://book.douban.com/subject/24737674/)
++ [《计算机网络：自顶向下方法》](https://book.douban.com/subject/26176870/)
+  + 豆瓣上有人提供了本书的相应公开课,不过我没有看，[国立清华大学公开课地址](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=13&)，[原贴地址](https://book.douban.com/review/7443456/)
+
 #### 计算机网络总览
 
 + [计算机网络](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md#%E4%BA%94%E8%BF%90%E8%BE%93%E5%B1%82)
