@@ -106,6 +106,14 @@
 
 + [知乎：Cookie和Session有什么区别？](https://www.zhihu.com/question/19786827)
 
+#### 加解密算法
+
++ [AES算法](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191726&idx=1&sn=c7856fe211471d01e9afdfea4a7f6b87&chksm=8c990cf4bbee85e28bb2ea63cb1f767dee4702ca8b9ef23db3467558a4b27ff5b6c1893c8771&scene=21#wechat_redirect)
++ [SHA系列算法](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191642&idx=1&sn=47c6340a6664af2f62e6c580528ea6f6&chksm=8c990f00bbee861698daa51b0622e581b3279c0759a16330fe538de745cb6abed8288b0bd778&scene=21#wechat_redirect)
++ [MD5算法](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191503&idx=1&sn=b18bd0458bf884bcb5d01f1cf2ca8301&chksm=8c990f95bbee8683fcfa9e972fd887cb1e50328ab4d8bd1f6a68ea90de6c67f46e50847e36fb&scene=21#wechat_redirect)
++ [如何破解MD5算法](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191598&idx=1&sn=13ef6b99b8a9a25f18b839df13cd6e31&chksm=8c990f74bbee866249af65e56a73f74b90a85b8497b9eea097f813a0b398a44fe0b8320967cd&scene=21#wechat_redirect)
++ [Base64算法](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191459&idx=1&sn=6e7d82dabe9c4a26b55f86f502edac03&chksm=8c990ff9bbee86ef7d6eee8a92430ff529b57e2f8720d439b7a4fb83b9ba75cd91395509a239&scene=21#wechat_redirect)
+
 # 二.操作系统（Operating System）
 
 ## Linux
@@ -236,6 +244,15 @@
 
 + [并查集(Union-Find)算法介绍](https://blog.csdn.net/dm_vincent/article/details/7655764)
 + [维基百科：并查集](https://zh.wikipedia.org/wiki/%E5%B9%B6%E6%9F%A5%E9%9B%86)
+
+#### 动态规划
+
++ [知乎：什么是动态规划？动态规划的意义是什么？](https://www.zhihu.com/question/23995189)
++ [漫画：什么是动态规划？](https://juejin.im/post/5a29d52cf265da43333e4da7)
+
+#### 贪心
+
++ 
 
 # 五.Java基础（Basic）
 
@@ -457,6 +474,7 @@
 #### AOP
 
 + [Spring AOP 实现原理与 CGLIB 应用](https://www.ibm.com/developerworks/cn/java/j-lo-springaopcglib/index.html)
++ [探秘Spring AOP](https://www.imooc.com/learn/869)
 + **动态代理**
   + [JDK动态代理代理与Cglib代理原理探究 ](http://ifeve.com/jdk%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%E4%BB%A3%E7%90%86%E4%B8%8Ecglib%E4%BB%A3%E7%90%86%E5%8E%9F%E7%90%86%E6%8E%A2%E7%A9%B6/)
   + [Java Proxy 和 CGLIB 动态代理原理](http://www.importnew.com/27772.html)
