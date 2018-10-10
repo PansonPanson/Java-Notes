@@ -346,6 +346,11 @@
 
 #  六.Java并发（Concurrency）
 
+#### 推荐书籍：
+
++ [《Java并发编程的艺术》](https://book.douban.com/subject/26591326/)
++ [《Java并发编程实战》](https://book.douban.com/subject/10484692/)
+
 #### 并发合集
 
 + [深入理解java内存模型系列文章](http://ifeve.com/java-memory-model-0/)
