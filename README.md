@@ -562,11 +562,13 @@
 
 + [美团技术团队：分布式系统互斥性与幂等性问题的分析与解决](https://tech.meituan.com/distributed_system_mutually_exclusive_idempotence_cerberus_gtis.html)
 + **CAP理论：**
-  + [论文：Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
+  + 论文：[Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
   + [CAP 定理的含义](http://www.ruanyifeng.com/blog/2018/07/cap.html)
 + **分布式事务**
   + [事务相关基础知识](http://www.hollischuang.com/archives/tag/%E4%BA%8B%E5%8A%A1)
   + [IBM developerWorks : JTA 深度历险 - 原理与实现](https://www.ibm.com/developerworks/cn/java/j-lo-jta/index.html)
++ **happens-before**
+  + 论文：[Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 
 # 十二.搜索引擎
 
