@@ -1,5 +1,7 @@
 
 
+
+
 ![](https://img1.doubanio.com/view/photo/large/public/p1816568308.webp "千与千寻剧照" )
 
 ## 阅读需知：
@@ -115,6 +117,34 @@
 + [Base64算法](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191459&idx=1&sn=6e7d82dabe9c4a26b55f86f502edac03&chksm=8c990ff9bbee86ef7d6eee8a92430ff529b57e2f8720d439b7a4fb83b9ba75cd91395509a239&scene=21#wechat_redirect)
 
 # 二.操作系统（Operating System）
+
+## 操作系统基础知识(基于CSAPP)
+
+### 基础知识
+
++ [【不周山之读薄 CSAPP】零 系列概览](https://wdxtub.com/2016/04/16/thin-csapp-0/)
++ [壹 数据表示 - 不同的数据是如何存储与表示的](http://wdxtub.com/2016/04/16/thin-csapp-1/)
++ [贰 机器指令与程序优化 - 控制流、过程调用、跳转](http://wdxtub.com/2016/04/16/thin-csapp-2/)
++ [叁 内存与缓存 - 内存层级与缓存机制](http://wdxtub.com/2016/04/16/thin-csapp-3/)
++ [肆 链接 - 不同的代码如何协同](http://wdxtub.com/2016/04/16/thin-csapp-4/)
++ [伍 异常控制流 - 不同进程间的切换与沟通](http://wdxtub.com/2016/04/16/thin-csapp-5/)
++ [陆 系统输入输出 - 怎么把不同的内容发送到不同的地方](http://wdxtub.com/2016/04/16/thin-csapp-6/)
++ [柒 虚拟内存与动态内存分配 - 现代计算机中内存的奥秘](http://wdxtub.com/2016/04/16/thin-csapp-7/)
++ [捌 网络编程 - 从最原始套接字彻底理解网络编程](http://wdxtub.com/2016/04/16/thin-csapp-8/)
++ [玖 并行与同步 - 协同工作中最重要的两个问题](http://wdxtub.com/2016/04/16/thin-csapp-9/)
+
+### 实验部分
+
++ [实验概览](http://wdxtub.com/2016/04/16/thick-csapp-lab-0/)
++ [I Data Lab - 位操作，数据表示](http://wdxtub.com/2016/04/16/thick-csapp-lab-1/)
++ [II Bomb Lab - 汇编，栈帧与 gdb](http://wdxtub.com/2016/04/16/thick-csapp-lab-2/)
++ [III Attack Lab - 漏洞是如何被攻击的](http://wdxtub.com/2016/04/16/thick-csapp-lab-3/)
++ [IV Cache Lab - 实现一个缓存系统来加速计算](http://wdxtub.com/2016/04/16/thick-csapp-lab-4/)
++ [V Shell Lab - 实现一个 shell](http://wdxtub.com/2016/04/16/thick-csapp-lab-5/)
++ [VI Malloc Lab - 实现一个动态内存分配](http://wdxtub.com/2016/04/16/thick-csapp-lab-6/)
++ [VII Proxy Lab - 实现一个多线程带缓存的代理服务器](http://wdxtub.com/2016/04/16/thick-csapp-lab-7/)
+
+
 
 ## Linux
 
