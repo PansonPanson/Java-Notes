@@ -214,6 +214,18 @@
 
 ## Redis
 
+[合集](http://wiki.jikexueyuan.com/project/redis/)
+
+#### 底层源码解析
+
++ [Redis源码解析](https://redissrc.readthedocs.io/en/latest/index.html)
+
+#### 分布式锁
+
++ [点我达技术：Redis分布式锁进化史](http://tech.dianwoda.com/2018/04/11/redisfen-bu-shi-suo-jin-hua-shi/)
+
+#### 缓存
+
 + [美团技术团队：缓存那些事](https://tech.meituan.com/cache_about.html)
 
 
@@ -298,6 +310,7 @@
 #### Java异常
 
 + [Java 异常处理](http://www.runoob.com/java/java-exceptions.html)
++ [throw和throws有什么区别？](https://www.nowcoder.com/questionTerminal/b769424fb8bf49d9bff97353c75d6f06)
 + [Java 中的异常和处理详解](http://www.importnew.com/26613.html)
 + [知乎：如何优雅地处理异常？](https://www.zhihu.com/question/28254987)
 
@@ -596,6 +609,7 @@
   + [CAP 定理的含义](http://www.ruanyifeng.com/blog/2018/07/cap.html)
 + **分布式事务**
   + [事务相关基础知识](http://www.hollischuang.com/archives/tag/%E4%BA%8B%E5%8A%A1)
+  + [分布式事务](http://tech.dianwoda.com/2018/09/27/fen-bu-shi-shi-wu/)
   + [IBM developerWorks : JTA 深度历险 - 原理与实现](https://www.ibm.com/developerworks/cn/java/j-lo-jta/index.html)
 + **happens-before**
   + 论文：[Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
