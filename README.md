@@ -542,6 +542,12 @@
   + [EntityManager相关核心概念](https://blog.csdn.net/dm_vincent/article/details/52615532)
   + [EntityManager相关](https://blog.csdn.net/u010837612/article/details/47666131)
 
+#### Spring源码
+
++ [死磕Spring](http://cmsblogs.com/?cat=206)
++ [Spring源码阅读](https://github.com/seaswalker/Spring)
++ [Spring 实现原理与源码解析系统](http://www.iocoder.cn/Spring/good-collection/)]
+
 ## Spring Boot
 
 + [@SpringBootApplication(源码分析与启动流程)](http://tengj.top/2017/03/09/springboot3/)  ==>>  推荐阅读《Spring Boot揭秘》第三章
