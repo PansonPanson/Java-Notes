@@ -499,11 +499,41 @@
 
 
 
-# 八.设计模式（Design Patterns）
+# 八.架构与设计
 
-+ [六大设计原则](http://wiki.jikexueyuan.com/project/java-design-pattern-principle/)
++ [设计模式合集](http://wiki.jikexueyuan.com/project/java-design-pattern-principle/)
 
+## 系统设计
 
++ [系统设计面试之前需要知道的八件事](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd1.html)
++ 设计Twitter
+    + [如何设计 Twitter（第一部分）](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd2.html)
+    + [如何设计 Twitter（第二部分）](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd3.html)
++ [创建照片分享应用](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd4.html)
++ [创建短网址系统](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd5.html)
++ [如何设计 Google Docs](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd6.html)
++  设计新闻推送系统
+    + [设计新闻推送系统（第一部分）](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd7.html)
+    + [设计新闻推送系统（第二部分）](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd8.html)
++ [设计 Facebook 聊天功能](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd9.html)
++ [如何为 Twitter 设计趋势算法](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd10.html)
++ [设计缓存系统](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd11.html)
++ [设计推荐系统](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd12.html)
++ [随机 ID 生成器](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd13.html)
++ 设计键值存储
+    + [设计键值存储（第一部分）](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd14.html)
+    + [设计键值存储（第二部分）](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd15.html)
++ [构建网页爬虫](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd16.html)
++ 设计垃圾回收系统
+    + [设计垃圾回收系统（第一部分）](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd17.html)
+    + [设计垃圾回收系统（第二部分）](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd18.html)
++ 设计电商网站
+    + [设计电商网站（第一部分）](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd19.html)
+    + [设计电商网站（第二部分）](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd20.html)
++ [设计点击计数器](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd21.html)
++ 设计 Youtube
+    + [设计 Youtube（第一部分）](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd22.html)
+    + [设计 Youtube（第二部分）](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/sd23.html)
 
 # 九.框架（Framework）
 
@@ -609,10 +639,24 @@
 
 # 十一.分布式
 
+## 1.分布式基础理论
+
 + [美团技术团队：分布式系统互斥性与幂等性问题的分析与解决](https://tech.meituan.com/distributed_system_mutually_exclusive_idempotence_cerberus_gtis.html)
++ [分布式基础理论](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)
 + **CAP理论：**
   + 论文：[Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
   + [CAP 定理的含义](http://www.ruanyifeng.com/blog/2018/07/cap.html)
+  + [分布式理论(一) - CAP定理](https://juejin.im/post/5b26634b6fb9a00e765e75d1)
++ **BASE理论：**
+    + [分布式理论(二) - BASE理论](https://link.juejin.im/?target=https%3A%2F%2Fjuejin.im%2Fpost%2F5b2663fcf265da59a401e6f8)
++ **2PC协议：**
+    + [分布式理论(三) - 2PC协议](https://link.juejin.im/?target=https%3A%2F%2Fjuejin.im%2Fpost%2F5b2664446fb9a00e4a53136e)
++ **3PC协议：**
+    + [分布式理论(四) - 3PC协议](https://link.juejin.im/?target=https%3A%2F%2Fjuejin.im%2Fpost%2F5b26648e5188257494641b9f)
++ **一致性算法Paxos:**
+    + [分布式理论(五) - 一致性算法Paxos](https://link.juejin.im/?target=https%3A%2F%2Fjuejin.im%2Fpost%2F5b2664bd51882574874d8a76)
++ **一致性协议Raft:**
+    + [分布式理论(六) - 一致性协议Raft](https://link.juejin.im/?target=https%3A%2F%2Fjuejin.im%2Fpost%2F5b2664e2f265da59584d8c90)
 + **分布式事务**
   + [事务相关基础知识](http://www.hollischuang.com/archives/tag/%E4%BA%8B%E5%8A%A1)
   + [分布式事务](http://tech.dianwoda.com/2018/09/27/fen-bu-shi-shi-wu/)
