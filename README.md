@@ -1,3 +1,11 @@
+## 为什么要创建这个仓库？
+
+我在学习编程的时候，经常会搜索一些资料，但无论是Google还是百度，搜索出来的资料往往都不系统，资料的质量也参差不齐。直到现在，我都认为阅读书籍是最系统的学习方式。计算机科学的知识体系太庞大了，如果一些知识学过，却在之后一段时间不再触及，很容易就忘掉，但我们不可能时时刻刻都能随手拿到一本相应的书来作为参考，因此系统地整理一些自己看过的博文合集显得十分必要了。
+
+随着仓库维护时间越来越长，我发现仓库的内容不仅仅对自己有用，对别人也有一定的参考价值。在拿了一些star后，我渐渐加上了一些自己学习心得，主要是关于一些自己读过的书籍。希望对你们有参考价值。
+
+其实我觉得每个人都可以建一个这样的仓库，整理知识的过程也是一个学习的过程。通过反复阅读与复习，慢慢知识就成了自己的一部分。
+
 ## 阅读需知：
 
 + **推荐使用[chrome插件:简悦](http://ksria.com/simpread/)来阅读。**
@@ -17,12 +25,27 @@
 
 # 一.计算机网络（Computer Networking）
 
-#### 推荐书籍（推荐按顺序阅读）：
+#### 推荐书籍
 
 + [《图解HTTP》](https://book.douban.com/subject/25863515/)
+
+    图解系列感觉都还不错，对新手很友好。还有一本老厚老厚[《HTTP权威指南》](https://book.douban.com/subject/10746113/)，暂时还没有时间看。
+
 + [《图解TCP/IP》](https://book.douban.com/subject/24737674/)
+
+    如果对网络零基础，可以作为阅读以下几本书的铺垫。
+
 + [《计算机网络：自顶向下方法》](https://book.douban.com/subject/26176870/)
-  + 豆瓣上有人提供了本书的相应公开课,不过我没有看，[国立清华大学公开课地址](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=13&)，[原贴地址](https://book.douban.com/review/7443456/)
+
+  豆瓣上有人提供了本书的相应公开课,不过只看了书，公开课没看，[国立清华大学公开课地址](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=13&)，[原贴地址](https://book.douban.com/review/7443456/)
+
++ [《TCP/IP详解 卷1：协议》](https://book.douban.com/subject/1088054/)
+
+    计算机网络的权威书籍。了解到作者生平故事的时候，总觉得英年早逝，真的很可惜。
+
++ [《计算机网络》](https://book.douban.com/subject/26960678/)
+
+    这本书其实是我最早看的关于计算机网络的书籍，是国内一些大学的教材，尽管自己也被国内很多教材荼毒过，但这本书还是不错的。
 
 #### 计算机网络总览
 
@@ -208,9 +231,47 @@
 
 ## Redis
 
-[合集](http://wiki.jikexueyuan.com/project/redis/)
+关于Redis的学习，命令与基础知识部分，Redis官网其实蛮详细了。
+
++ [英文官网](https://redis.io/)
+
++ [Redis中文网](http://www.redis.cn/)
+
+#### 书籍推荐：
+
++ [《Redis开发与运维》](https://book.douban.com/subject/26971561/)
+
+    这本书主要是关于基础知识的讲解，比较全面，其实还有一本[《Redis实战》](https://book.douban.com/subject/26612779/)，我翻了翻，没怎么细看。
+
++ [《Redis设计与实现》](https://book.douban.com/subject/25900156/)
+
+    Redis底层是用C语言写的，这本书剖析了Redis的内部源码实现，配图也很多，有很多经典巧妙的数据结构，我觉得是对算法学习很好的补充。
+
++ [《Redis 深度历险：核心原理与应用实践》](https://book.douban.com/subject/30386804/)
+
+    这本书有对应的小册，在掘金官网上可以购买，我只看了小册，不过书和小册应该基本一致。
+
+#### 基础知识
+
++  [字符串（strings）](http://www.redis.cn/topics/data-types-intro.html#strings)
++  [散列（hashes）](http://www.redis.cn/topics/data-types-intro.html#hashes)
++  [列表（lists）](http://www.redis.cn/topics/data-types-intro.html#lists)
++  [集合（sets）](http://www.redis.cn/topics/data-types-intro.html#sets)
++  [有序集合（sorted sets）](http://www.redis.cn/topics/data-types-intro.html#sorted-sets) 
++  [bitmaps](http://www.redis.cn/topics/data-types-intro.html#bitmaps)
++  [hyperloglogs](http://www.redis.cn/topics/data-types-intro.html#hyperloglogs) 
++  [地理空间（geospatial）](http://www.redis.cn/commands/geoadd.html) 
++  [复制（replication）](http://www.redis.cn/topics/replication.html)
++ [LUA脚本（Lua scripting）](http://www.redis.cn/commands/eval.html)
++ [LRU驱动事件（LRU eviction）](http://www.redis.cn/topics/lru-cache.html)
++ [事务（transactions）](http://www.redis.cn/topics/transactions.html) 
++ [磁盘持久化（persistence）](http://www.redis.cn/topics/persistence.html)
++ [Redis哨兵（Sentinel）](http://www.redis.cn/topics/sentinel.html)
++ [分区（Cluster）](http://www.redis.cn/topics/cluster-tutorial.html)
 
 #### 底层源码解析
+
++ [合集](http://wiki.jikexueyuan.com/project/redis/)
 
 + [Redis源码解析](https://redissrc.readthedocs.io/en/latest/index.html)
 
@@ -386,7 +447,16 @@
 #### 推荐书籍：
 
 + [《Java并发编程的艺术》](https://book.douban.com/subject/26591326/)
+
+    z这本书比《Java并发编程实战》更适合入门一些。作者还创办了并发编程网，里面有很多值得读的文章。
+
 + [《Java并发编程实战》](https://book.douban.com/subject/10484692/)
+
+    jdk并发包作者写的书，书很好，但翻译为人诟病很久。
+
++ [《实战Java高并发程序设计》](https://book.douban.com/subject/26663605/)
+
+    在图书馆瞎逛的时候看到的一本书，翻了翻，出乎意料地不错，涉及到一些Java8函数式编程的知识。
 
 #### 并发合集
 
@@ -452,8 +522,19 @@
 
 
 
-
 # 七.Java虚拟机（JVM）
+
+#### 推荐书籍
+
++ [《深入理解Java虚拟机》](https://book.douban.com/subject/24722612/)
+
+    学过JVM的应该都看过这本书，比较详细，但这本书第二版是2013年出的，HotSpot在具体实现上有了一些变化，比如说内存结构Perm区的继任者Metaspace，以及一些新的垃圾收集器也出现了，这部分内容需要再自己选择性地去补充学习。
+
++ [《实战Java虚拟机》](https://book.douban.com/subject/26354292/)
+
+    相比较上一本，这一本书感觉更基础，两者可以相互补充。
+
+#### 合集
 
 + [JVM一览](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
 + [Jvm知识汇总篇](https://zhuanlan.zhihu.com/p/34426768)

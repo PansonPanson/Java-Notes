@@ -1,5 +1,17 @@
 # 七.Java虚拟机（JVM）
 
+#### 推荐书籍
+
++ [《深入理解Java虚拟机》](https://book.douban.com/subject/24722612/)
+
+    学过JVM的应该都看过这本书，比较详细，但这本书第二版是2013年出的，HotSpot在具体实现上有了一些变化，比如说内存结构Perm区的继任者Metaspace，以及一些新的垃圾收集器也出现了，这部分内容需要再自己选择性地去补充学习。
+
++ [《实战Java虚拟机》](https://book.douban.com/subject/26354292/)
+
+    相比较上一本，这一本书感觉更基础，两者可以相互补充。
+
+#### 合集
+
 + [JVM一览](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
 + [Jvm知识汇总篇](https://zhuanlan.zhihu.com/p/34426768)
 

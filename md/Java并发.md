@@ -1,5 +1,19 @@
 # 六.Java并发（Concurrency）
 
+#### 推荐书籍：
+
++ [《Java并发编程的艺术》](https://book.douban.com/subject/26591326/)
+
+    z这本书比《Java并发编程实战》更适合入门一些。作者还创办了并发编程网，里面有很多值得读的文章。
+
++ [《Java并发编程实战》](https://book.douban.com/subject/10484692/)
+
+    jdk并发包作者写的书，书很好，但翻译为人诟病很久。
+
++ [《实战Java高并发程序设计》](https://book.douban.com/subject/26663605/)
+
+    在图书馆瞎逛的时候看到的一本书，翻了翻，出乎意料地不错，涉及到一些Java8函数式编程的知识。
+
 #### 并发合集
 
 + [深入理解java内存模型系列文章](http://ifeve.com/java-memory-model-0/)
