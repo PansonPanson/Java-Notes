@@ -220,6 +220,7 @@
 + [MySQL 对于千万级的大表要怎么优化？](https://www.zhihu.com/question/19719997)
 + [MYSQL性能优化的最佳20+条经验](https://coolshell.cn/articles/1846.html)    ===>  [英文原文:Top 20+ MySQL Best Practices](https://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855)
 + [MySQL 性能优化神器 Explain 使用分析](https://segmentfault.com/a/1190000008131735)
++ [视频：性能优化之MySQL优化](https://www.imooc.com/learn/194)
 
 #### MySQL的锁
 
@@ -411,18 +412,28 @@
 #### Java容器  ==>>  推荐阅读[《分布式Java应用 基础与实践》](https://book.douban.com/subject/4848587/)第四章
 
 + [Java集合学习指南](http://wiki.jikexueyuan.com/project/java-collection/)
+
 + [java 集合类知识汇总](https://mp.weixin.qq.com/s/2P-wEvmig-M2Ehde1REGjQ)
+
 + [Java 容器](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%AE%B9%E5%99%A8.md#arraylist)
+
 + [ArrayList vs. LinkedList vs. Vector](http://www.importnew.com/8782.html)
+
 + [ArrayList、LinkedList、Vector、HashSet、Treeset、HashMap、TreeMap的区别和适用场景](http://bs-yg.iteye.com/blog/2253605)
+
 + [Java Collections Framework - ArrayList](https://www.jianshu.com/p/4b7aa8a022ba)
+
 + **HashMap与ConcurrentHashMap**
+
+  + [Java7/8 中的 HashMap 和 ConcurrentHashMap 全解析](https://javadoop.com/post/hashmap)
+
   + [占小狼：深入浅出ConcurrentHashMap1.8](https://www.jianshu.com/p/c0642afe03e0)
   + [占小狼：谈谈ConcurrentHashMap1.7和1.8的不同实现](https://www.jianshu.com/p/e694f1e868ec)
   + [占小狼：ConcurrentHashMap的红黑树实现分析](https://www.jianshu.com/p/23b84ba9a498)
   + [占小狼：老生常谈，HashMap的死循环](https://www.jianshu.com/p/1e9cf0ac07f4)
   + [HashMap与ConcurrentHashMap在JDK1.7和JDK1.8中的实现](https://crossoverjie.top/2018/07/23/java-senior/ConcurrentHashMap/)
   + [美团技术团队：Java 8系列之重新认识HashMap](https://tech.meituan.com/java_hashmap.html)
+
 + **优先级队列**
   + [PriorityQueue](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/8-PriorityQueue.md)
   + [优先级队列是一种什么样的数据结构](http://www.importnew.com/6510.html)
