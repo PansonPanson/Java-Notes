@@ -47,3 +47,6 @@
 
 + [并发编程网：JVM实用参数系列 ](http://ifeve.com/useful-jvm-flags/)
 + [美团技术团队：从实际案例聊聊Java应用的GC优化](https://tech.meituan.com/jvm_optimize.html)
++ [JVM发生OOM的 8 种原因、及解决办法](https://mp.weixin.qq.com/s/HwsU282ZuXUFjq4Oi7Br_A)
++ [JVM 调优（学习篇）](https://mp.weixin.qq.com/s/Po45tsGSuoftUgWbJGlZOQ)
+
